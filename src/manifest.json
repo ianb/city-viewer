@@ -1,0 +1,16 @@
+{
+  "name": "The City Of Veilvale",
+  "short_name": "city-of-veilvale",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff",
+  "theme_color": "#673ab8",
+  "icons": [
+    {
+      "src": "/assets/images/icon-128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    }
+  ]
+}
