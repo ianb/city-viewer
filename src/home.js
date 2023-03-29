@@ -1,7 +1,6 @@
 import { A, Page, H1, TextBox } from "./components";
 
 export const Home = ({ city }) => {
-  console.log("city is", city)
   const color = city.properties.cityHomeImage.textColor || "#000";
   return <Page
     title="Veilvale: a GPT experiment"

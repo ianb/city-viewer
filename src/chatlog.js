@@ -20,7 +20,6 @@ const ChatMessage = ({ city, character, message }) => {
     assistant: "bg-gray-100 px-4 py-2 rounded-lg ml-10 mb-2 shadow-xl",
   };
   let content = message.content;
-  console.log("content", [content]);
   content = content.replace(/^"+(.*)"+[\s\n]*$/gs, (match, inner) => inner);
   return <div class={classes[message.role]}>
     <h3 class="font-bold font-display text-sm">{name}</h3>

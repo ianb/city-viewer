@@ -37,7 +37,6 @@ export const Building = ({ city, neighborhood, building }) => {
   if (descriptionOb) {
     peopleDescription = linkMarkdownObjects(descriptionOb.name, people, `#/neighborhood/${encodeURIComponent(neighborhood)}/building/${encodeURIComponent(building)}/person`);
   }
-  console.log("desc", peopleDescription);
   return <Page title={`${n.name} > ${b.name}`} back={["neighborhood", neighborhood]} background={city.getImage(n, "neighborhoodImagePrompt")}>
     <H1>{b.name}</H1>
     <SiteImage src={city.getImage(b, "buildingImagePrompt")} />

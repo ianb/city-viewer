@@ -31,7 +31,7 @@ export const Page = ({ back, title, background, saturated, children }) => {
       {children}
     </div>
     <footer class="flex items-center justify-center h-16 bg-gray-800 text-white">
-      Veilvale by <A class="px-1" href="https://ianbicking.org">Ian Bicking</A> | <A class="px-1" href="/about">About</A>
+      <strong class="px-1">NOT PUBLIC, PLEASE DO NOT SHARE YET</strong> | Veilvale by <A class="px-1" href="https://ianbicking.org">Ian Bicking</A> | <A class="px-1" href="/about">About</A>
     </footer>
   </div>
 };
