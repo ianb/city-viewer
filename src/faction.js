@@ -18,7 +18,7 @@ export const Faction = ({ city, faction }) => {
     </TextBox>
     <ChoiceList intro="Members:">
       {people.map(person => (
-        <Choice href={["faction", faction, "person", person.name]}>{person.name}</Choice>
+        <Choice href={["faction", faction, "person", person.name]}>{person.name} ({person.attributes.type})</Choice>
       ))}
     </ChoiceList>
   </Page>;
