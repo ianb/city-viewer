@@ -20,7 +20,7 @@ export const Overview = ({ city }) => {
     saturated={true}
   >
     <H1>{city.title}</H1>
-    <TextBox class="ld:float-right">
+    <TextBox class="lg:float-right">
       <H2>Neighborhoods</H2>
       <Markdown text={neighborhoodDescription} />
     </TextBox>
