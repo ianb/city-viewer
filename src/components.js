@@ -58,25 +58,28 @@ export const SiteImage = ({ src, class: _class, ...props }) => {
 
 export const H1 = ({ children, class: _class, ...props }) => {
   _class = twMerge("text-2xl font-semibold text-gray-200", _class);
-  return <h1 class={_class} {...props}>{children}</h1>;
+  return <h1 class={_class} {...props}>
+    <span class="p-2 rounded" style="background-color: rgba(0, 0, 0, 0.3)">
+      {children}
+    </span>
+  </h1>;
 };
 
 export const TextBox = ({ children, class: _class, ...props }) => {
-  _class = twMerge("text-gray-900 bg-gray-200 w-1/3 p-3 rounded m-4 leading-relaxed", _class);
-  return <div class={_class} {...props}>{children}</div>;
+  _class = twMerge("text-gray-900 w-1/3 p-3 rounded m-4 leading-relaxed", _class);
+  return <div style="background-color: rgba(255, 255, 255, 0.7)" class={_class} {...props}>{children}</div>;
 };
 
 export const ChoiceList = ({ children, intro, class: _class, ...props }) => {
-  _class = twMerge("bg-gray-200 m-4 rounded w-1/3 p-2", _class);
-  return <div class={_class} {...props}>
+  _class = twMerge("m-4 rounded w-1/3 p-2", _class);
+  return <div style="background-color: rgba(255, 255, 255, 0.7" class={_class} {...props}>
     <div>{intro}</div>
     <ul class="block">{children}</ul>
   </div>;
 };
 
 export const Choice = ({ children, href, class: _class, ...props }) => {
-  console.log("choice children", children);
-  _class = twMerge("m-2 p-2 hover:bg-gray-300", _class);
+  _class = twMerge("m-2 p-2 hover:bg-gray-400 rounded", _class);
   if (Array.isArray(href)) {
     href = "#/" + href.map(x => encodeURIComponent(x)).join("/");
   }

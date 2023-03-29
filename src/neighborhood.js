@@ -26,19 +26,22 @@ export const Building = ({ city, neighborhood, building }) => {
   const b = city.findName("building", building, n);
   const people = city.findAll("ownerOccupants", b);
   console.log("background is", n, city.getImage(n, "neighborhoodImagePrompt"));
-  return <Page title={b.name} back={["neighborhood", neighborhood]} background={city.getImage(n, "neighborhoodImagePrompt")}>
+  return <Page title={`${n.name} > ${b.name}`} back={["neighborhood", neighborhood]} background={city.getImage(n, "neighborhoodImagePrompt")}>
     <H1>{b.name}</H1>
     <SiteImage src={city.getImage(b, "buildingImagePrompt")} />
     <SiteImage src={city.getImage(b, "buildingInteriorImagePrompt")} />
     <TextBox>
       <Markdown text={b.attributes.description} />
     </TextBox>
-    <ChoiceList intro="You see these people:">
-      {people.map(person => {
-        return <Choice href={["neighborhood", n.name, "building", b.name, "person", person.name]}>{person.name}</Choice>;
-      })}
-
-    </ChoiceList>
+    {people.length > 0 ?
+      <ChoiceList intro="You see these people:">
+        {people.map(person => {
+          return <Choice href={["neighborhood", n.name, "building", b.name, "person", person.name]}>
+            {person.name} ({person.attributes.type})
+          </Choice>;
+        })}
+      </ChoiceList>
+      : <TextBox>The building lies empty.</TextBox>}
     <ul>
     </ul>
   </Page>;
@@ -48,7 +51,7 @@ export const BuildingPerson = ({ city, neighborhood, building, person }) => {
   const n = city.findName("neighborhood", neighborhood);
   const b = city.findName("building", building, n);
   const p = city.findName("ownerOccupants", person, b);
-  return <Page title={p.name} back={["neighborhood", neighborhood, "building", building]} background={city.getImage(b, "buildingImagePrompt")}>
+  return <Page title={`${b.name} > ${p.name}`} back={["neighborhood", neighborhood, "building", building]} background={city.getImage(b, "buildingImagePrompt")}>
     <H1>{p.name}</H1>
     <SiteImage src={city.getImage(p, "ownerOccupantsImagePrompt")} />
     <TextBox>
