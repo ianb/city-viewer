@@ -4,7 +4,12 @@ import { Markdown } from "./markdown";
 export const Faction = ({ city, faction }) => {
   const f = city.findName("faction", faction);
   const people = city.findAll("factionMember", f);
-  return <Page title={f.name} back="#/city" background={city.getImage(f, "factionBackgroundImagePrompt")}>
+  return <Page
+    title={f.name}
+    back="#/city"
+    background={city.getImage(f, "factionBackgroundImagePrompt")}
+    saturated={true}
+  >
     <H1>{f.name}</H1>
     <TextBox class="w-1/2">
       <InsetImage src={city.getImage(f, "factionLogoImagePrompt")} />

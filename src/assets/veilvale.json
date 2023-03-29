@@ -1,6 +1,6 @@
 {
   "exportType": "layercraft",
-  "exportDate": 1680115430517,
+  "exportDate": 1680120643126,
   "model": {
     "id": "5522c818-d398-4e04-ae27-fd06d7f42d7a",
     "type": "layercraft",
@@ -9,7 +9,7 @@
     "archived": false,
     "logoPrompt": "Veilvale",
     "dateCreated": 1679543101791,
-    "dateUpdated": 1680115344569,
+    "dateUpdated": 1680120564700,
     "domain": {
       "schemaName": "citymaker",
       "document": {
@@ -2785,7 +2785,8 @@
                         }
                       ]
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -2911,6 +2912,10 @@
                       "arrives": "2pm",
                       "leaves": "10am"
                     }
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you step inside the Jellyfish Inn, you're immediately transported to a world of wonder and magic. The walls are made of coral and seashells, and the soft glow of bioluminescent jellyfish illuminates every corner of the room. You're greeted by the owner, **Kai Amari**, a young woman with long, curly black hair and a bright smile. Her mask made of seashells and pearls perfectly matches the sea-themed decor of the inn. As you look around, you notice the smell of fresh seafood wafting from the kitchen.\n\nSpeaking of the kitchen, it seems like there's a commotion going on. You peek through the doorway and see **Jae-Sun Park**, a short, stocky man with a bald head and a thick beard, barking orders at his coworkers. Despite his rough exterior, you can tell that he takes his job as a cook very seriously. Suddenly, a bright green flash catches your eye and you turn to see Mango, the talkative parrot perched on a nearby table. He's wearing a small mask made of carved coconut shell, looking both mischievous and exotic at the same time.\n\nAs you settle in and begin to relax, you can't help but feel like you've stumbled upon something truly special here at the Jellyfish Inn."
                   }
                 ],
                 "instructions": {
@@ -3061,7 +3066,8 @@
                         "leaves": "6am"
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -3232,6 +3238,10 @@
                         "name": "Zanthe Seastar would be shy and hesitant when someone first approaches her, but once she becomes comfortable, she would share her love for music and her passion for writing songs blending the sea and stars. She would engage in deep conversations with the person about her experiences as a mermaid and how she misses her life in the sea, while also reflecting on the choices she made. She would be introspective and philosophical as she delves into topics concerning identity, love, and belonging. Zanthe would be kind and empathetic, always willing to listen to the person's thoughts and emotions. Her demeanor would be serene and calming, and she would exude a sense of wisdom about the mysteries of life. Overall, Zanthe would be a thoughtful and sensitive chatbot who would encourage people to reflect on their own introspections and emotions."
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you approach the Glowfish Tavern, you hear the unmistakable sound of live music pouring out from the walls. You push your way through the door and are hit with the warm, rowdy atmosphere of the tavern. The walls are made of driftwood and jellyfish lamps hang from the ceiling, casting a gentle glow around the room. The smell of fresh seafood and strong drinks fills the air.\n\nYour eyes dart around the room, taking in the colorful characters that make up the crowd. You spot **Lirien Sunflower**, the head chef, busy at work in the kitchen. Her mask, made of woven grass and flowers, is a stark contrast to the sharp knives she wields with ease.\n\nOver in the corner, you see the lead musician, **Orin Stone**, plucking away at his lute and singing a tale of love and adventure. His mask, shaped like a fish and made of seashells and coral, matches the theme of his music perfectly.\n\nNearby, a shadowy figure catches your eye. It's **Riven Shadow**, his mask made of black leather and sporting a sharp beak that covers his nose and mouth. You've heard rumors of his questionable activities, but you can't help feeling drawn to him.\n\nBehind the bar, **Nuru Cephalopod** is crafting drinks with a flourish, her tentacle-faced mask covered in beads and shells. She looks up and flashes you a friendly smile before turning back to her work.\n\nFinally, your gaze falls on a young woman sitting alone at a table in the corner. It's **Zanthe Seastar**, wearing a mask made of seashells and starfish and a cape made of seaweed. She's lost in thought, strumming her guitar softly and scribbling notes in a tattered notebook. You can't help but wonder what stories and secrets lie beneath her quiet exterior."
                   }
                 ],
                 "instructions": {
@@ -3420,7 +3430,8 @@
                         }
                       ]
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -3513,6 +3524,10 @@
                         "name": "Mao Yi would initially seem shy and reserved when conversing with someone with no context. He would be curious to know more about the other person and their background, but would be hesitant to ask too many questions. However, as the conversation progresses and he becomes more comfortable, Mao Yi's fascination with astronomy and ancient artifacts may lead him to share interesting facts and stories about his studies. He would also likely showcase his passion for the bioluminescent jellyfish and how he uses them for his research, possibly even offering some insights or advice to the other person. Despite his shyness, Mao Yi is eager to learn and share his knowledge with others."
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you approach the Bioluminescence Bay, you notice a small convenience store with a sign that reads \"Jelly Mart.\" As you enter, you are greeted by the warm glow of bioluminescent jellyfish jars lining the shelves. Behind the counter stands an old fisherman with wise eyes, **Oshun Tano**. She wears a mask resembling a mermaid with golden scales and flowing hair. Her voice is raspy but comforting as she greets you.\n\nTo your left, you see a woman with a flower crown mask covering her mouth, **Mireya Lopez**, tending to a section of exotic plants and mushrooms. She looks up and greets you with a small smile before returning to her work. The air is filled with the scent of herbs and earth.\n\nAs you make your way through the aisles, you notice a young man examining a jar of bioluminescent jellyfish with a curious expression. This is **Mao Yi**, a shy apprentice astronomer with a blank slate mask and a crescent moon on his forehead. He looks up briefly as you pass but quickly returns to his studies.\n\nThe atmosphere is peaceful and calm, with the occasional sound of the old fisherman's laugh or a rustle of leaves from Mireya's section. You feel as though you have found a hidden gem in the heart of Veilvale, and can't wait to return to Jelly Mart and the friendly characters within."
                   }
                 ],
                 "instructions": {
@@ -3647,7 +3662,8 @@
                         "leaves": "4pm"
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -3713,6 +3729,10 @@
                         "name": "Kazi Ahan, with his analytical personality, would initially greet someone new at the Moon Jelly Sanctuary with a polite nod and a slight smile. He would observe the newcomer closely, assessing their intentions and demeanor before engaging in conversation. Kazi's love for the sea and its creatures is evident in the way he talks about the moon jellyfish and their needs. He would patiently answer any questions the visitor might have about the sanctuary or the jellyfish, but he would also expect respect and sensitivity towards the delicate creatures. If the conversation turned towards a topic that he is passionate about, Kazi might become animated and enthusiastic, his blue and green mask reflecting the colors of the ocean in the light of the crystal walls. However, if someone displayed ignorance or disrespect towards the jellyfish or their habitat, Kazi's short temper might flare up, and he would not hesitate to voice his displeasure. Overall, Kazi strives to protect and care for the moon jellyfish and would expect visitors to do the same in his presence."
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you step inside the Moon Jelly Sanctuary, the soft glow of bioluminescent jellyfish greets you, casting a dreamy atmosphere around you. The air is cool and humid, reminiscent of the underground lake that the sanctuary was built around. The walls of the building are adorned with intricate murals of sea creatures and the moon goddess. In the center of the room, you see a large aquarium filled with jellyfish of all colors and sizes, swaying in their luminescent dance. \n\nYou notice two people in the room. **Nahla Zouri** is a young woman with a gentle smile, wearing a white mask adorned with shells and pearls. She is tending to a small jellyfish in a small medical center at the corner of the room, humming a soothing melody as she works. Beside her is **Kazi Ahan**, a tall man with an intense gaze, wearing a blue and green mask that resembles the colors of the ocean. He is carefully examining the water in the aquarium, making sure that the jellyfish are comfortable and healthy.\n\nAs you approach them, they both turn to you, greeting you with warm smiles. Nahla introduces herself and Kazi, explaining the purpose of the sanctuary and their roles in taking care of the moon jellyfish. As you listen to their stories, you can't help but feel a sense of wonder at the mystical creatures around you, and a sense of gratitude towards the compassionate souls who dedicate their lives to their care."
                   }
                 ],
                 "instructions": {
@@ -3867,7 +3887,8 @@
                         "leaves": "12am"
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -3996,6 +4017,10 @@
                       "arrives": "10pm",
                       "leaves": "2am"
                     }
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you make your way through the dark and winding canals of Veilvale, you stumble upon a hidden entrance that leads to a magical underground club known as the Glowing Grotto. The entrance is guarded by a giant jellyfish, with tentacles that glow in the dark and pulse to the beat of the music inside. You step inside, and are immediately transported to a world of wonder and enchantment.\n\nThe dance floor is alive with bioluminescent algae, casting a pulsing rainbow of light across the room. The bar is tended by a charming bartender named **Zephyr Windrider**, who mixes exotic and potent cocktails with ease. The air is thick with the scent of smoke and perfumes, and the walls are lined with booths and alcoves where patrons can relax and enjoy the festivities.\n\nAs you scan the room, your eyes are drawn to a figure on the dance floor, moving with grace and passion. It's **Phoenix Fireheart**, a talented dancer with fiery red and orange feathers adorning his mask, and a flirtatious smile on his lips. On stage, a sultry voice fills the room, drawing you closer to the bar. It's **Aurora Nightshade**, the host of the club and a member of Veilvale's elite class. Her mask looks like a starry sky with a crescent moon, and her seductive voice and sultry moves are captivating the crowd. You can't help but feel swept away by the magic of the Glowing Grotto, and you settle in for a night of adventure and wonder."
                   }
                 ],
                 "instructions": {
@@ -4539,7 +4564,8 @@
                         "leaves": "2pm"
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -4668,6 +4694,10 @@
                       "arrives": "11am",
                       "leaves": "2pm"
                     }
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you enter the enchanting Shimmering Den, you feel as though you've stepped into an ever-changing dream. The walls are made of iridescent seashells that reflect the flickering lights of candles and lanterns scattered throughout the room. The ceiling is made of woven reeds that seem to sway gently in a phantom breeze, creating a sense of whimsical movement. In one corner, you see an alchemical bar with a Raven Nightshade expertly mixing potions behind it, their black feathered raven mask adding to their air of mystery. \n\nOff to the side, you see a performance stage where a Phoenix Fireheart with a mask of flames and feathers is performing gravity-defying acrobatics to a mesmerized audience, their form glowing with the intensity of the fire they embody. A delicious aroma wafts from another corner of the room, where the passionate and creative Sable Shadowsong is creating culinary wonders with ingredients you've never even heard of. Her mask is white and black with intricate designs that give a nod to her musical background.\n\nAs you take in the sights, sounds, and smells of the Shimmering Den, you realize that this is a place where shape-shifters and otherworldly beings come to see and be seen, where anything is possible, and where magic is the norm."
                   }
                 ],
                 "instructions": {
@@ -4827,7 +4857,8 @@
                         "leaves": "before noon"
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -4956,6 +4987,10 @@
                       "arrives": "in the early morning",
                       "leaves": "before noon"
                     }
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As the reader steps into the Sandstone Sanctuary, they're immediately struck by the intricate carvings and tapestries adorning the walls. The space is quiet, save for the gentle sound of shifting sand beneath their feet. As their eyes adjust to the dim light, they begin to notice the figures of three individuals in the center of the room: **Sable Thorn**, **Silk Weaver**, and **Stone Walker**. \n\nSable Thorn, with their wolf mask and black-silver fur, seems to be in deep meditation, their body completely still. Silk Weaver, on the other hand, is weaving silk with deft fingers, the material shining in the light that filters through the windows. Stone Walker stands nearby, their sandstone mask reflecting the flickering flames of the candles that are scattered throughout the room. All three figures emit a sense of calm that fills the space around them. \n\nAs the reader watches, Sable Thorn's eyes snap open, and they seem to sense the presence of someone new. They rise gracefully to their feet and turn to face the reader, their owl form looming large and imposing. \"Greetings, seeker,\" they say, their voice deep and resonant. \"What brings you to the Sandstone Sanctuary?\""
                   }
                 ],
                 "instructions": {
@@ -5300,7 +5335,8 @@
                         "mask": "Bright yellow half-mask with silver musical notes"
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -5616,6 +5652,10 @@
                       "preferredShape": "Yellow canary",
                       "mask": "Bright yellow half-mask with silver musical notes"
                     }
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you step into The Shifting Hearth, you are greeted by the warm glow of the central hearth and the delicious smell of cooking wafting from the kitchen. The circular room is filled with winding corridors and hidden rooms that seem to shift and change shape before your eyes. At the hearth, you see a group of shape-shifters gathered around it, sharing stories and food in the flickering light.\n\nAs you approach, you are introduced to **Wren Oakwood**, a wise shaman with a mask made of woven vines and feathers, and a penchant for taking the form of a white owl. She welcomes you warmly and offers you a seat by the fire. To her right, you see **Garnet Redwood**, the head cook of The Shifting Hearth, whose mask is made of intricately carved wood and painted with designs. She is busy stirring a large pot of stew and seems to be enjoying the company of her fellow shape-shifters.\n\nOn the other side of the hearth, you notice **Eira Silvermist**, a gifted storyteller with a silver mask engraved with intricate patterns, who takes the form of a snow leopard. She is in the middle of recounting a tale of magic and wonder that has everyone captivated. Next to her is **Sable Nightshade**, a fierce guard with a mask made of dark leather and adorned with sharp spikes, who prefers the form of a wolf. She seems to be in deep conversation with **Sage Pepper**, the head chef who specializes in alchemical cooking, and whose mask is made of colorful spices and herbs. Sage seems to be experimenting with some ingredients, and the aroma of the dish fills the air.\n\nFinally, you notice **Ember Forge**, the blacksmith of Veilvale, sitting by himself on a stool near the hearth, his mask made of iron and fire. He is quietly sharpening a sword, lost in thought. In a corner of the room, you spot **Moth Sight**, the oracle of Veilvale, whose mask is made of moth wings and silver thread. Moth is sitting on a cushion, her eyes closed, seemingly meditating.\n\nAs you take in the scene, you can't help but feel a sense of wonder and awe at the diversity and magic of Veilvale, and you realize that you have stumbled upon a group of extraordinary people who will change your life forever."
                   }
                 ],
                 "instructions": {
@@ -5810,7 +5850,8 @@
                         }
                       ]
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -5966,6 +6007,10 @@
                         "name": "Lirien Ardan would likely approach someone new to The House of Masks with a warm but cautious demeanor. She would take the time to listen to their story and understand their motives for seeking a new identity. Lirien would ask probing questions and offer guidance based on her own experiences, but she would also encourage the individual to make their own choices and trust their instincts. She would likely be slow to trust them fully, but would be kind and patient as they began to earn her trust over time. In conversation, Lirien would speak with a soothing and measured tone, carefully choosing her words to convey her wisdom and insight while also respecting the individual's autonomy."
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you step into The House of Masks, the air is thick with the scent of incense and herbs, and a bell tinkles above the door. The inside is filled with mirrors, fabrics, and paints, and you can hear the sound of feathers rustling and gemstones clinking as you make your way inside. The room is buzzing with activity, as several shapeshifters are gathered around a table, discussing the design of their masks.\n\nAt the center of the room stands **Kaida Uhara**, a master mask-maker who has been creating masks for the shape-shifters of Veilvale for over 50 years. Her sharp tongue and quick wit command attention as she inspects a mask with delicate feathers and pearls. Near her stands **Amara Nhar**, deep in concentration as she works on an intricate design of a peacock's tail, reflecting her pride and ambition. Across from her, **Enya Riva** is working on a bold and colorful mask, her flamboyant personality shining through. Over in the corner, **Lirien Ardan** sits in deep contemplation, her timeless wisdom and patience making her the elder of the group.\n\nAs you take in the scene, you realize that The House of Masks is not simply a workshop, but a sanctuary for the shapeshifters of Veilvale. Here, they can reveal their true selves and create masks that reflect their innermost thoughts and emotions. Each mask is as unique as the person who wears it, and the mask-makers who craft them are as diverse as the masks themselves. You can feel the creative energy pulsating through the room, and can't help but wonder what kind of masks you would create if you were to join them."
                   }
                 ],
                 "instructions": {
@@ -6157,7 +6202,8 @@
                         "leaves": "1am"
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -6349,6 +6395,10 @@
                       "arrives": "8pm",
                       "leaves": "1am"
                     }
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As the reader enters The Den of Whispers, a wave of spicy and metallic scents reaches their nose. The dimly lit room is thick with a sense of secrecy and danger, and colorful symbols and runes cover the walls. At the center of the room, a low table is surrounded by four figures, each wearing a different mask and exuding a different aura.\n\n**Aria Shadowsong**, with her porcelain mask and spider-like markings, sits with a cold smile and a vial of purple liquid in her hand. Beside her, **Mira Razia**, with her leather and feather mask and mischievous grin, twirls a lock-pick between her fingers. Across the table, **Balam Blackpelt**, with his jaguar fur mask and fierce expression, sharpens a long knife with a stone. And finally, **Khalid al-Farid**, with his golden mask and smooth voice, sips a cup of wine and studies the others with a calculating gaze.\n\nAs the reader's eyes adjust to the dimness, they realize that they have stumbled upon a secret meeting of assassins and spies, each with their own agenda and secrets. The tension in the air is palpable, and the reader knows that any wrong move could mean a quick death."
                   }
                 ],
                 "instructions": {
@@ -6506,7 +6556,8 @@
                         "leaves": "7pm"
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -6654,6 +6705,10 @@
                         "name": "Mei Zhang, as a chatbot, would introduce herself with a warm and friendly greeting, using emojis and expressive language to convey her cheerful personality. She would ask the user about their preferred food and any allergies or dietary requirements, showing consideration for their needs. Mei Zhang would then proceed to share stories of her travels and the origins of her recipes, engaging the user with vivid descriptions and humorous anecdotes. She would also ask the user about their own experiences and interests in cooking or storytelling, encouraging them to participate in the conversation. However, if the user questions her cooking techniques or tries to suggest modifications to her recipes, Mei Zhang might become defensive and assert her authority as the expert chef. Overall, Mei Zhang would be a delightful and engaging chatbot, sharing her love for food and stories while also displaying her strong personality and opinions."
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you walk into the Shifting Sands Inn, you are greeted by a welcoming atmosphere and a cozy interior. The walls are adorned with intricate tapestries depicting various animals and landscapes, and the air is filled with the scent of savory spices and sweet fruits coming from the kitchen. In the corner, a group of travelers huddle around a hearth, murmuring softly and sipping steaming cups of tea. \n\nYou notice four distinct individuals already in the room. First, there is **Kaida Runefaust**, a fox-shifter with soft red fur and bright green eyes, who is busy chatting with an elderly couple at a nearby table. She wears a mask that looks like a fox's face, with long whiskers and a black nose. Next, there is **Ari Sandstorm**, a jackal-shifter with short golden fur and amber eyes, who is sitting at the bar, twirling a glass of amber liquid in his hands. He wears a mask that looks like a jackal's face, with long ears and a curved snout. \n\nAt a table near the center of the room sits **Tao Shen**, a middle-aged woman with a serene dragon mask on her face. She sips her tea quietly and observes the other guests with a wise and calm demeanor. Lastly, there is **Mei Zhang**, a jolly woman with a cheerful pig mask on her face, who is bustling back and forth from the kitchen carrying plates of steaming food. Her plump form bounces with enthusiasm as she greets each new guest with a warm smile. \n\nAs you look around, you can't help but feel a sense of belonging in this warm and friendly place, and you know that you've stumbled upon a true hidden gem in the maze of Veilvale."
                   }
                 ],
                 "instructions": {
@@ -6859,7 +6914,8 @@
                         }
                       ]
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -6979,6 +7035,10 @@
                         "name": "Karlyn Crazy is an enigmatic figure, often speaking in riddles and cryptic messages. She exudes a sense of otherworldliness, as if she exists in a realm outside of time and space. Her conversations are often intense, with a piercing gaze that seems to see past the surface and into the depths of the soul. She speaks with an aura of authority, as if her words hold immense power and significance. Karlyn may come across as unsettling or intimidating to those who do not understand her ways, but to those who seek her out for guidance, she can offer profound insights and advice in matters concerning the past, present, and future."
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you approach the House of Whispers, the first thing you notice is the hidden entrance. It's a small, unassuming adobe house, but the entrance is cleverly disguised as a pile of rocks. You follow a small path that leads you to the entrance, and as you approach, the rocks part to reveal a dark tunnel. You hesitate, momentarily afraid of what might be inside, but your curiosity gets the better of you and you step inside.\n\nAs your eyes adjust to the darkness, you begin to make out the shapes of the residents. The first person you see is **Zora Nightshade**, wearing a mask made of purple feathers. She's lounging on a plush velvet couch, surrounded by glowing crystals and tarot cards. Across the room, you see **Jedidiah Stone**, a gruff and surly old man. His mask is made of rough leather, with two long tusks protruding from the front. He's sharpening a pickaxe with a stone, muttering to himself about \"finding the mother lode.\"\n\nAs you move deeper into the house, you catch a whiff of something herbal and pungent. Suddenly, **Isolde Nightshade** steps out from a doorway. She's wearing a mask made of black lace and silver threads, and you notice the venomous stinger on her wrist. She smiles at you sweetly before disappearing back into her room. You continue down the hallway, and suddenly, you hear a piercing scream. You follow the sound to the end of the hallway, where you find **Karlyn Crazy**. She's a banshee by preference, and her mask is made of bones and hair. She's wailing at the top of her lungs, her eyes glassy as she communicates with the dead.\n\nYour head is spinning as you try to process everything you've just seen. You realize that this is no ordinary house, but a haven for shape-shifters and those who practice the dark arts. You wonder what other secrets the House of Whispers might be hiding."
                   }
                 ],
                 "instructions": {
@@ -7415,7 +7475,8 @@
                         "leaves": "3pm"
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -7536,6 +7597,10 @@
                         "name": "Orion Starlight would greet someone with a warm and friendly smile, his charming demeanor instantly putting them at ease. He would likely ask them about themselves, their interests, and what brought them to Veilvale. As a skilled musician, he may even offer to play them a song on his lute, hoping to inspire them in some way. Orion is a great conversationalist, able to keep the discussion flowing effortlessly, and he often injects poetic or philosophical musings into his words. He seems genuinely interested in what others have to say, and he would try to find common ground or shared interests to build a connection with them. Throughout the conversation, he would never remove his mask, as it's an integral part of his identity and his connection to the spiritual realm."
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As the reader enters Moonbeam Manor, they are greeted by a spacious room that is illuminated by the enchanting glow of the moonlight. The walls are adorned with silver and purple vines, and the air is filled with the sweet fragrance of moonflowers. The room is quiet, except for the soft sound of a lute being played by **Orion Starlight** in the corner.\n\nTo the left of the room, a woman is working diligently over a bubbling cauldron. Her mask is made of pure moonstone, which shimmers in the moonlight. This is **Lunara Moonstone**, the alchemist who has dedicated her life to finding the elixir of immortality. She looks up briefly to acknowledge the presence of the reader before returning to her experimental work.\n\nMoving towards the back of the room, the reader notices a man tending to an array of exotic plants with great care. His mask is made of bark and leaves, and with each touch, he seems to communicate with the plants. This is **Silvanus Nightshade**, the head gardener of Moonbeam Manor, who has a deep connection to the moon and the earth. He looks up with a warm smile to welcome the reader to the mystical world of Moonbeam Manor."
                   }
                 ],
                 "instructions": {
@@ -7688,7 +7753,8 @@
                         "leaves": "2am"
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -7739,6 +7805,10 @@
                         "name": "Lunaria Nightshade would first greet the stranger with a polite but reserved demeanor, analyzing their energy and intentions. She would be cautious and guarded, as her past experiences have made her wary of outsiders. However, if she senses that the stranger is genuine and trustworthy, she would open up and share her knowledge of lunar magic and the history of Veilvale. She would speak in a serious and somber tone, but with a hint of fascination and enthusiasm for her craft. She would be patient with the stranger's questions, but would expect them to show respect and reverence for the moon goddess and the spirits of the labyrinth. Overall, Lunaria Nightshade would be a fascinating and mysterious character to talk to, with her deep knowledge and powerful magic."
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you approach Moonstone Cottage, the rainbow-colored hedge seems to shimmer in the moonlight, almost as if it's alive. You push past the hedge to reveal a small cottage made entirely of moonstone, with crystal windows that reflect the light in a thousand directions. The front door is intricately carved with lunar symbols, and you can feel the magic humming in the air.\n\nAs you step inside, you're greeted by the sight of **Lunaria Nightshade**, a powerful witch who specializes in lunar magic. She's sitting at a small table in the center of the room, surrounded by various potions and spell books. Her mask is made of black feathers and moonstone, and as she turns to greet you, you notice that it reflects the phases of the moon.\n\n\"Welcome to Moonstone Cottage,\" she says in a somber tone. \"I'm Lunaria Nightshade. What brings you here?\" Despite her serious demeanor, there's a warmth in her voice that makes you feel welcome. You can tell that there's much more to this mysterious woman than meets the eye."
                   }
                 ],
                 "instructions": {
@@ -7886,7 +7956,8 @@
                         }
                       ]
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -8003,6 +8074,10 @@
                         "name": "Marigold Blossom would approach someone new with a sense of pride and confidence, her mask of a sunflower serving as a symbol of her status as a wealthy merchant. She would likely engage in conversation with a sense of detachment, keeping a cool and collected demeanor as she interrogates the person about their interests and background. However, she may also reveal a sense of arrogance in her speech, flaunting her wealth and status in order to impress or intimidate the other person. Despite her reputation, Marigold may also display a fascination with exotic plants and artwork, and may ask the person for their opinions on these topics. Overall, Marigold's demeanor would be one of sophistication and refinement, though she may also show a cruel streak if provoked or crossed."
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you enter the Nightshade Nursery in Moon Garden Heights, your senses are immediately flooded with the sweet and heady scent of exotic flowers. Looking around, you see a dome-shaped greenhouse with translucent glass walls and a floor made of black soil. The dim light filtering through the glass casts an eerie glow on **Hazel Moth**, a shy apprentice, as she carefully tends to a Venus Flytrap. Her mask, resembling a butterfly's wings, is a work of art made from discarded materials in the greenhouse. \n\nYou hear a gruff voice behind you and turn to see **Basil Stone**, a gardener with a mask reminiscent of a stone wall. He is hard at work, maintaining the soil and irrigation systems. His sharp tongue and tendency to complain are hard to miss as he mutters under his breath about the challenges of his job. As you make your way deeper into the nursery, you come across **Marigold Blossom**, a wealthy merchant with a mask shaped like a sunflower. She is searching for rare and exotic flowers to add to her vast collection, and her haughty demeanor and tendency to flaunt her wealth make her an unpopular figure among the staff of the greenhouse.\n\nYou can't help but feel curious about the complex web of relationships among the staff of the Nightshade Nursery as you continue your exploration of the otherworldly surroundings."
                   }
                 ],
                 "instructions": {
@@ -8223,7 +8298,8 @@
                         }
                       ]
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -8458,6 +8534,10 @@
                       "arrives": "6pm",
                       "leaves": "10pm"
                     }
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you step into the Mushroom Market, you are immediately transported to a world of enchantment. The canopy of giant mushrooms overhead glows in a myriad of moonlit hues, casting a soft, ethereal light over the bustling marketplace. The air is alive with the fragrant scents of exotic herbs and flowers, and the sound of music and laughter fills your ears. You look around and see a group of vendors, each with their own unique mask and wares.\n\nTo your left is **Aria Mistwood**, with her delicate lace mask adorned with embroidered flowers, carefully arranging her rare and exotic herbs and potions. Her calm and soothing demeanor draws in customers seeking her healing abilities. Across from her is the gruff **Elias Blacksmith**, his sharp-edged leather mask contrasting with the intricate, delicate jewelry and weaponry he creates. Over in the corner, you see the ethereal beauty of **Luna Dreamweaver**, her silver moonstone mask glinting under the soft white light of her mushroom. Her haunting melodies on the harp and otherworldly voice mesmerize the customers. As you move through the bustling marketplace, you see the intricate tapestries and rugs of **Ezra Weaver**, the vibrant statues and sculptures of **Cedric Stonemason**, and the exotic spices and herbs of **Sylvia Spice**. The thunderous rhythms of **Odin Thunderdrum** fill the air as he beats his drums under the deep blue light of his mushroom. You can't wait to explore this mystical world further."
                   }
                 ],
                 "instructions": {
@@ -8727,7 +8807,8 @@
                         "leaves": "7pm"
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -8984,6 +9065,10 @@
                         "name": "If someone were to approach Flora Dreamweaver without any context, she would greet them warmly and ask if they are lost in the maze. She would tell them about the wonders of Veilvale, and how dreams are an important part of life and nature. She would ask about their interests and listen attentively, trying to find out if they share her love for plants and dream interpretation. Flora would be kind and patient, answering any questions they may have and offering to show them around the Lunar Labyrinth. She would also encourage them to keep a dream journal and to pay attention to their own dreams, as they may hold important messages from the universe. In conversation, Flora would be gentle and empathetic, using her intuition to connect with the other person and make them feel at ease."
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you step into the Lunar Labyrinth, you're immediately engulfed in a world of wonder and magic. The air is thick with the earthy smell of plants and the subtle scent of moonflowers, and the soft glow of bioluminescent mushrooms illuminates the path ahead. You can hear the sound of tinkling glass and the hum of alchemical machines coming from the greenhouses, mixed with the soft murmurs of botanical researchers poring over their notes.\n\nAs you look around, you see a group of people gathered around a table, pointing at a strange-looking plant that seems to be moving on its own. You recognize **Glimmer Nightshade** among them, her silver half-mask glinting in the moonlight as she examines the plant with a keen eye. Nearby, you see **Thorn Bramble** tending to a group of carnivorous plants, her black leather mask covering her face as she carefully waters each one.\n\nFurther down the path, you spot **Raven Nightshade** hunched over a collection of rare herbs, her black feather and leather mask catching the light as she mutters to herself. Across from her, **Aurora Stardust** is arranging a delicate bouquet of flowers, her lace mask glinting with tiny crystals. As you venture deeper into the Labyrinth, you see **Orion Skywatcher** scribbling in a notebook, his silver mask etched with complex patterns as he observes a plant under a microscope. You catch a glimpse of **Luna Moonglow** skipping down a nearby aisle, her rainbow-colored mask glowing as she hums a tune to herself. At the end of the path, you see **Mystic Nightshade** standing in front of a large tree, her black velvet mask contrasting with the pale bark as she places her hand on the trunk and closes her eyes. And finally, you see **Galileo Starfinder**, surrounded by a group of researchers as he explains his latest invention, his brass mask reflecting the starry sky above. You can't help but feel a sense of awe as you take in the scene before you, realizing that you've stepped into a world of botanical wonders and lunar mysteries."
                   }
                 ],
                 "instructions": {
@@ -9145,7 +9230,8 @@
                         "leaves": "5pm"
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -9343,6 +9429,10 @@
                         "name": "Upon meeting someone without any context, Yara Okhotsk would likely keep their distance and observe the person from afar, assessing whether or not they pose a threat. If they deem the person harmless, they may approach them with a polite yet reserved demeanor. Yara would likely only speak if spoken to, and would keep their responses brief and to the point. They may come across as aloof or distant, as they are not one to share personal information easily. However, if someone were to approach them with a genuine interest in their cocktails or alchemy, Yara may open up a bit more and reveal some of their creations or techniques. Overall, Yara's behavior would be cautious, mysterious, and focused on their craft."
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you step inside the Silver Fern Inn, a warm and welcoming aroma of moonflower tea and exotic spices wafts through the air. The walls are made of silver fern wood, giving the space a magical glow under the moonlight seeping through the windows. The roof of the building doubles as a lush garden filled with rare and vibrant plants. You can see the maze of Veilvale glistening in the distance, shrouded in an aura of mystery and magic.\n\nA jovial woman with a silver mask, **Mira Windrider**, greets you with a bright smile and welcomes you to the inn. A serious-looking cook with a floral wooden mask, **Kaela Moonshadow**, can be seen preparing exotic dishes in the open kitchen, while an old man with a stern metal mask, **Grimm Shadowfax**, grumbles about the daily maintenance tasks. A tall and slender woman with a serene silk mask, **Kaida Arashi**, attentively serves the guests and listens to their stories, while a stocky and jolly bald man with a comical wooden mask, **Ryuunosuke Tachibana**, churns out fragrant dishes and makes cheeky jokes to anyone who'll listen. Lastly, a mysterious androgynous person with a complex steel mask, **Yara Okhotsk**, can be seen in the corner, silently concocting elixirs and potions.\n\nAs you take a seat amidst the glowing atmosphere, you can't help but feel enveloped in the magic of Veilvale and its mysterious inhabitants."
                   }
                 ],
                 "instructions": {
@@ -9501,7 +9591,8 @@
                         }
                       ]
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -9645,6 +9736,10 @@
                         "name": "Luna Nightshade is a mysterious character who guards The Celestial Conservatory with a fierce determination. She often wears a mask that resembles a dark crescent moon, and her sharp tongue and skilled fighting ability make her a force to be reckoned with. Luna is always on guard against possible threats to the conservatory, be it human or animal, and can be quite aggressive towards those who she perceives as a danger. However, despite her tough exterior, many of the workers in the conservatory look up to her and consider her a friend. In conversation, Luna is direct and to the point, and will not tolerate any nonsense or insincerity. She expects honesty and integrity from those she speaks with and is not afraid to call out anyone who displays otherwise."
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you enter The Celestial Conservatory, you're struck by the stunning beauty of the crystal structure surrounding you. The glasswork reflects the moon's light in a prism of colors, illuminating every corner of the room. Your eyes are immediately drawn to the center of the room where you see four individuals engrossed in their tasks. You notice **Rosella Bloom** first, her long gray hair strongly standing out against her mask that resembles a blooming rose, with intricate petals and thorns. She's carefully watering her moonflowers, and you hear her muttering softly, lost in her own world.\n\nAs you move further, you see **Sage Moonbeam** intently examining a bundle of herbs, her green eyes focused as she softly mutters to herself. Nearby, **Orion Stargazer** strums his lute, the gentle melody floating through the air, enveloping the conservatory in a warm embrace. His mask resembles a constellation, with tiny glass stars and moons embedded in the surface. In the corner, you see **Luna Nightshade**, a mysterious figure in charge of guarding the conservatory, her dark crescent moon mask with a single diamond shining in the center. You catch a glimpse of her sharp tongue as she talks to one of the workers, her gaze unwavering.\n\nAs you take in the scene, you realize that these four individuals are an eclectic mix, each with their own unique talents and quirks. You can't wait to see how their stories unfold in the enchanting world of Veilvale."
                   }
                 ],
                 "instructions": {
@@ -9810,7 +9905,8 @@
                         "leaves": "whenever he feels like it"
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -9850,6 +9946,10 @@
                         "chatMessages": []
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you approach the Quiet Cottage in Moon Garden Heights, you notice that the door is slightly ajar, allowing the fragrant scent of herbs and moonflowers to waft out. You push the door open and step inside, finding yourself surrounded by shelves upon shelves of jars filled with various botanicals. A sprightly woman in her 70s, **Liliana Greenbloom**, looks up from her workbench and greets you with a smile that belies her sharp tongue.\n\nThe interior of the cottage is cozy and humble, made of woven vines and soft moss. A small garden extends from the back of the cottage, filled with moonflower vines that climb up the walls. As you take in your surroundings, you notice that Liliana's mask is made of woven vines and leaves, perfectly in tune with the natural surroundings. She beckons you closer, eager to share her knowledge of local flora and medicinal properties. The air is filled with a sense of peacefulness and wonder, as if you've stumbled upon a hidden sanctuary within the maze of Veilvale."
                   }
                 ],
                 "instructions": {
@@ -10565,7 +10665,8 @@
                         "leaves": "3pm"
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -10697,6 +10798,10 @@
                       "arrives": "12pm",
                       "leaves": "3pm"
                     }
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you step into The Troupe's Den, the first thing that catches your eye is the vibrant mural that covers an entire wall, depicting the Trickster in various guises, from a mischievous imp to a wise old sage. The stage at the center of the room is empty but surrounded by a group of performers, each wearing a unique mask that hides their true identity. You recognize **Triloqui the Jester** immediately, juggling balls with flair and tossing them to a group of children who are laughing and cheering. \n\nNext to him, **Siren the Contortionist** is stretching her body into impossible shapes, her mask with the long nose and giant ears making her look like a fantastical creature. Across the stage, **Grom the Strongman** is lifting a heavy barbell, his bushy mustache and monocle giving him a comical air. Finally, in the corner, **Tusk the Sound Engineer** is fiddling with a broken microphone, his pig snout mask making him look grumpier than he probably is.\n\nYou can smell the sweat and sawdust, and hear the laughter and music that fill the air. The performers seem to be in their element, each displaying their unique talents and quirks. You can't help but feel a sense of awe and excitement, knowing that you are in the presence of Veilvale's most creative and talented inhabitants, guided by the capricious spirit of the Trickster."
                   }
                 ],
                 "instructions": {
@@ -10856,7 +10961,8 @@
                         "leaves": "10am"
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -10973,6 +11079,10 @@
                       "arrives": "6pm",
                       "leaves": "10am"
                     }
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you enter The Colorful Inn, your eyes widen in amazement at the vibrant and intricate decor that surrounds you. The walls are covered in tapestries depicting mythical creatures and far-off lands, while the floors are adorned with ornate carpets and rugs. The stained-glass windows cast a kaleidoscope of colors across the room, reflecting off the crystal chandelier that hangs from the high ceiling. The air is filled with the scent of exotic spices and fresh flowers, which mingle together in a delightful aroma.\n\nAt the front desk stands **Zephyr Windwhisperer**, the innkeeper, donning a feathered beak mask that gives them an avian appearance. They greet you with a courteous yet businesslike manner, their eyes scanning you from behind their mask. As you follow them up the spiral staircase to your room, you pass by **Rosie Raindrops**, who is busy arranging a fresh wreath of flowers for her mask. She looks up and flashes you a friendly smile before returning to her work. As you continue down the hall, you catch a whiff of something delicious coming from the kitchen. There you find the head chef, **Saffron Fireheart**, whose fiery red and orange ceramic mask covers their entire head. They are in the middle of creating a masterpiece of a dish, their focus completely on their art. \n\nYou feel a sense of awe and wonder at the whimsical and enchanting atmosphere of The Colorful Inn and the fascinating characters who inhabit it."
                   }
                 ],
                 "instructions": {
@@ -11155,7 +11265,8 @@
                         }
                       ]
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -11308,6 +11419,10 @@
                         "name": "If someone were to approach Eclipse Shadow without any context, he would likely be guarded and distant towards them. He would answer their questions in a blunt and matter-of-fact manner, giving only the necessary information and not bothering with empty pleasantries. If the person were to display a genuine interest in his work, he may warm up a bit and engage in a more detailed conversation about his designs and installations. However, if the person were to interrupt him or distract him from his work, he would become irritated and short-tempered with them. Overall, Eclipse Shadow is focused on his work and expects others to respect his time and dedication to his craft."
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you step into the Gallery of Illusions, the first thing that catches your eye is the dazzling display of holographic images that seem to float in midair. You can hear the sound of wind chimes and soft music playing in the background, and the air is filled with the scent of incense and flowers. The walls are painted in bright colors, and there are no straight lines or right angles to be seen. It's as if you've stepped into a different dimension altogether.\n\nAs you walk further into the gallery, you encounter **Luna Masquerade**, the enigmatic curator of the space. She greets you with a shy smile and a wave of her hand, her full moon mask grinning at you from above. Her flowing cloak of starry fabric swirls around her like a galaxy in motion. You can't help but feel a sense of reverence and unease in her presence.\n\nAs you explore the maze of rooms, you come across **Zephyr Windwalker**, creating an installation of feathers and wind chimes that rustle in the breeze. He greets you with a warm hug and a mischievous grin, and you can see the vortex of wind on his mask spinning in excitement. You feel a sense of joy and freedom in his presence, as if anything is possible.\n\nFurther down the hall, you find yourself face to face with **Phantom Mirage**, who is working on a sculpture made of twisted metal and glass. His distorted face mask seems to shift and change with each passing moment, and his reclusive aura sends shivers down your spine. You can't help but feel a sense of dread and fascination in his presence.\n\nAs you make your way back towards the entrance, you encounter **Muse Muse**, who is inviting the audience to participate in her latest performance piece. Her smiling muse mask with garlands of flowers in her hair radiates a sense of kindness and empathy, and her flowing dress made of leaves and vines seems to be alive. You can't help but feel a sense of wonder and inspiration in her presence.\n\nFinally, you see **Eclipse Shadow**, who is inspecting one of the interactive installations. His shadowy figure mask with glowing eyes seems to look right through you, and his leather coat covered in wires and circuit boards gives him an air of authority. You can't help but feel a sense of respect and trepidation in his presence.\n\nAs you leave the gallery, you realize that you've just experienced something truly magical and otherworldly. The characters you've encountered have left an indelible mark on your heart and mind, and you know that you'll never forget this unforgettable journey into the unknown."
                   }
                 ],
                 "instructions": {
@@ -11462,7 +11577,8 @@
                         }
                       ]
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -11670,6 +11786,10 @@
                         "name": "As soon as someone approaches Hugo, they would notice his stern and focused demeanor. He would greet them bluntly and speak in a deep, rumbling voice. Hugo is not one for small talk, and would likely want to get straight to the point of the conversation. He would not hesitate to ask questions to get a better understanding of why the person is speaking with him, and may come across as intimidating with his directness. However, as the conversation progresses, Hugo may loosen up a bit and show a bit more passion when discussing his art or the moon goddess. Overall, Hugo Ironwood is a no-nonsense kind of person, but his dedication to his craft and his reverence for the moon goddess are admirable qualities."
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you approach the entrance of The Artists' Co-Op in Trickster's Alley, you can hear the sounds of clanging metal, music, and laughter. You push open the heavy iron door and step inside, your eyes adjusting to the dim lighting. The space is massive, with high ceilings and exposed brick walls. Everywhere you look, there are works of art in progress, tools scattered about, and people moving with purpose.\n\nTo your right, you see **Zephyr Ironheart** working at his forge, muscles flexing as he hammers a piece of metal. In front of you, **Aurora Nightingale** is deep in conversation with a group of performers, gesturing with her hands to emphasize her point. Over by the windows, **Raven Shadow** is practicing a routine, her body twisting and contorting in time with the haunting music. Sitting at a small table in the corner is **Orpheus Melancholy**, a notebook open in front of him as he scribbles down lines of poetry.\n\nAs you take it all in, you catch a glimpse of a figure in the shadows, working quietly on a piece of sculpture. You step closer and see it's **Hugo Ironwood**, his rough-hewn iron mask giving him an imposing air. The air is thick with creativity and passion, and you feel a jolt of excitement at the thought of what magical works of art are yet to come from these talented artists."
                   }
                 ],
                 "instructions": {
@@ -11862,7 +11982,8 @@
                         "leaves": "8pm"
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -11994,6 +12115,10 @@
                       "arrives": "4pm",
                       "leaves": "6pm"
                     }
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you step into the Puppeteer's Theater, you're immediately struck by the dim lighting and the hushed murmurs of the audience. The small stage is draped in deep purple velvet and illuminated by a flickering chandelier that casts shadows across the room. At the center of the stage, **Zephyr Dewdrop** stands, his colorful bird mask tilted to one side as he fusses over the strings of a marionette. His assistants bustle around him, adjusting props and costumes, but Zephyr is focused solely on his craft.\n\nIn the shadows at the back of the theater, you spot a figure huddled over a large ledger, scribbling furiously. It's **Lorelei Moondrop**, the theater's treasurer, who is always meticulous in her record-keeping. She glances up briefly as you enter but quickly returns to her work, her wooden mask adorned with delicate engravings of stars and moons.\n\nAs you take a seat, you catch a glimpse of a jester's cap bobbing in the crowd. It's **Rufus Ravenwood**, the exuberant and jovial performer who always puts on a good show. His grotesque clown mask is impossible to miss as he cajoles the audience into laughter with a few well-placed jokes. Suddenly, the lights go out, and the stage is plunged into darkness. A soft voice rises from the shadows, and you realize it's **Iris Stardust**, the master of shadow puppetry. You're drawn in by the haunting melodies and strange shapes as her delicate puppets dance across the stage, flickering in and out of existence. The Puppeteer's Theater is a place of magic and mystery, where the skillful artistry of its performers transports you to another world."
                   }
                 ],
                 "instructions": {
@@ -12171,7 +12296,8 @@
                         }
                       ]
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -12354,6 +12480,10 @@
                       "arrives": "11am",
                       "leaves": "7pm"
                     }
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you step through the door of The Costume Atelier, a riot of color and texture hits you. Fabrics of every kind spill out of shelves and drift across tables. Ribbons and trims twirl through the air like streamers. A group of people are bent over worktables, heads bobbing up and down like a sea of colorful masks. At the center of the room, a flamboyant man with a grotesque mask is belting out a song. This is **Ferdinand Chauvet**, the head designer of the atelier.\n\nTo his left, a woman with a mask made of animal hides and antlers is sketching out designs on a piece of parchment. This is **Giselle D'Angelo**, a leatherworker who specializes in incorporating natural elements into her costumes. Across from her, a man in a feathered headdress is adding the finishing touches to a glittering gown. This is **Lucien Bonnet**, the master of embellishment who never fails to add a bit of mischievous humor to his work.\n\nIn the corner, a pair of siblings are bickering over a bolt of fabric. **Marius and Camille Dupont** are known for their stunning men's suits and silk gowns, respectively. And last but not least, a sharp-tongued seamstress with a butterfly mask glides across the room. This is **Eloise Beaumont**, whose exquisite embroidery work is sought after by all who know her. As you take in the bustling workshop, you know that you have entered a world of fantasy and imagination, where anything is possible."
                   }
                 ],
                 "instructions": {
@@ -12536,7 +12666,8 @@
                         }
                       ]
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -12683,6 +12814,10 @@
                         "name": "Lilith LeFay would introduce herself with a sultry tone, expressing pleasure at meeting the person. She would inquire if they were interested in the arts, and if they had seen any of her performances before. She would make witty remarks and use double entendres, but not in a way that would make the person uncomfortable. Lilith would also ask the person if they had any questions about the city, the maze, or the moon goddess, and would share her knowledge with enthusiasm. Overall, Lilith's conversation style would be flirtatious and charming, but also informative and engaging, giving the person a taste of the playful yet mystical atmosphere of Veilvale."
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As the reader steps into The Painted Palace, they are immediately enveloped by a symphony of colors and sounds. The walls are adorned with vibrant murals and mosaics, and the air is filled with the rhythm of live music and the chatter of street vendors. A group of acrobats twirls by on stilts, and a fire-eater spits flames into the air. Amidst the chaos, five figures stand out: **Jazzmin Sunshine**, **Kaiju Bravado**, **Gypsy Rose**, **Pyotr Petrov**, and **Lilith LeFay**.\n\nJazzmin, barefoot and wearing a flower crown, is delicately painting a canvas of surreal landscapes, her brush strokes flowing with the grace of a dancer. Kaiju, with his muscular frame and leather jacket adorned with spikes and chains, shreds on his guitar while his booming voice echoes through the room, sending shivers down the reader's spine. Gypsy Rose, in her flowing dress and jangling bracelets, draws a crowd with her illusions and fortune-telling.\n\nMeanwhile, Pyotr's sharp eyes assess the room as he chisels away at a block of marble, his thick Russian accent adding to the mystique of his sculpting. Lastly, Lilith's seductive moves in a small, candlelit room are entrancing, with her black lace eye patch and silver chain adding an air of mystery to her performance. In this magical place, the reader realizes that anything is possible, and the characters are just as colorful and enigmatic as their surroundings."
                   }
                 ],
                 "instructions": {
@@ -12884,7 +13019,8 @@
                         "leaves": "9pm"
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -13055,6 +13191,10 @@
                       "arrives": "3pm",
                       "leaves": "5pm"
                     }
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you push open the door to The Melting Pot, a wave of exotic scents and vibrant colors wash over you. The walls are covered with maps, flags, and photographs of travelers, creating a sense of wanderlust and adventure. The cafe is bustling with people, all talking and laughing over steaming cups of tea and plates of colorful dishes.\n\nAs you make your way to the counter, you see a stout and lively woman with a perpetual smile, **Jasmine Al-Bakri**, expertly blending spices and creating new dishes. A tall and lean man with a suave demeanor, **Hugo Martinez**, is charming customers and upselling dishes with ease. A small and wiry man with a serious expression, **Yoshiro Nakamura**, is focused on his craft in the kitchen, his love for mushrooms evident in the dishes he prepares. A friendly and outgoing man with a contagious laugh, **Khalid Abdul-Rahman**, is chatting with customers and regaling them with tales from his travels. And finally, a round and jolly woman with a Swedish accent, **Ingrid Johansson**, is serving up delectable pastries and cakes, her love for blackberries evident in each bite.\n\nThe atmosphere is lively and welcoming, and the cafe seems to be the perfect place to sit back, relax, and enjoy a taste of the exotic. As you take in the scene before you, you can't help but feel like you've stumbled upon a hidden gem in the heart of Veilvale."
                   }
                 ],
                 "instructions": {
@@ -13728,7 +13868,8 @@
                         }
                       ]
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -13923,6 +14064,10 @@
                       "arrives": "9am",
                       "leaves": "4pm"
                     }
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you enter The Monastery of the Silent One, the sound of your footsteps echoes through the quiet halls, and the scent of incense fills the air. You find yourself in a quiet courtyard, surrounded by tall black stone walls and the gentle rustling of leaves. In front of you is a small fountain, where water trickles down a statue of a serene monk in prayer. \n\nAs you continue walking, you come across a group of novices led by **Brother Kael** in the training hall, practicing their forms with precision and grace. His wooden mask carved in the likeness of a tiger's face, reminds him of his animal spirit and his inner strength. Just across the hall, **Sister Eira** is tending to a patient with a broken arm in the infirmary. Her porcelain mask painted with delicate flowers reflects her love of nature and her desire to bring comfort to those in need. \n\nFurther down the hallway, you see **Brother Ivar** surrounded by ancient scrolls and tomes, as he meticulously works to maintain the library. His metal mask covers his entire face, signifying his devotion to the Silent One and his commitment to silence and solitude. Nearby, **Brother Henrik** is organizing books and helping a scholar. His paper mask painted in the likeness of a wise old owl reflects his love of learning and his desire to be respected for his knowledge. At the end of the hallway, you reach the meditation room, where **Sister Sigrid**, the abbess of the monastery, is lost in deep prayer. Her metal mask adorned with intricate patterns reflects her role as the leader of this community and her commitment to order and discipline."
                   }
                 ],
                 "instructions": {
@@ -14065,7 +14210,8 @@
                         "leaves": "10pm"
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -14212,6 +14358,10 @@
                         "name": "Serenade Nightingale would introduce herself in a gentle and soothing voice, asking how she can assist the person. She would ask them about their emotions and current state of mind, using her ability to sense their feelings to guide the conversation. She would likely ask them to describe themselves, including their personal masks, to better understand them. Serenade would be patient and understanding, giving the person space to express themselves and processing their words before responding. She would communicate through metaphors and poetic language, using her musical background to emphasize the beauty in all things. Overall, Serenade would approach the conversation with empathy, warmth, and a desire to help the person feel heard and understood."
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As the reader enters The Hall of the Silent Song in the Silent Quarter of Veilvale, they are struck by the serene and mystical atmosphere. The walls are made of polished obsidian that reflects the subtle illumination of the room, and the marble floor is so smooth that it seems to ripple like water. Rows of benches face a stage, where a group of musicians is performing. As the reader approaches, they notice that the audience is wearing masks of various shapes and designs, concealing their identities.\n\nThe first performer is **Melisande Farouk**, a flutist who plays a haunting melody with closed eyes, feeling the vibrations of the music through her butterfly-shaped mask. Next to her, **Axel Valdez**, a percussionist with mixed heritage, beats out a rhythm with his mask made of feathers and beads, his eyes closed in ecstasy. In the back row, **Niamh O'Rourke**, a harpist with a Celtic knotwork mask, plays a mournful tune, her fingers moving deftly over the strings. Near the entrance, **Cecily Wong**, a petite and graceful woman with a mask inspired by Chinese opera, greets the patrons with a friendly smile and a few words of recommendation. In the far corner of the stage, **Serenade Nightingale**, a blind harpist with a porcelain mask of a serene angel, plays a delicate melody that seems to touch the hearts of the entire audience.\n\nAs the reader takes a seat, they realize that they cannot hear any sound coming from the performers, only the subtle vibrations that resonate within their own bodies and minds. They become aware of the subtle emotions that the music conveys, the melancholy of loss, the joy of love, the awe of mystery. They realize that in Veilvale, music is not only heard, but felt and experienced in a profound and intimate way."
                   }
                 ],
                 "instructions": {
@@ -14551,7 +14701,8 @@
                         "leaves": "5pm"
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -14656,6 +14807,10 @@
                       "arrives": "3pm",
                       "leaves": "6pm"
                     }
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you approach The House of Reflections, you notice the mirrored façade that perfectly reflects the surrounding trees and sky. You enter the courtyard and are immediately struck by the feeling of infinite space created by the polished mirrors lining the walls. In the center of the courtyard is a tranquil fountain that emits a soothing melody, inviting you to sit and reflect.\n\nAs you explore the rooms, you come across three enigmatic figures. **Aria Shadowheart** sits in the corner, masterfully manipulating shadow puppets to tell dark and twisted tales. You can't help but be both fascinated and unnerved by her brooding personality and black leather mask, with silver filigree details resembling veins and sharp, curved horns protruding from the top.\n\nNearby, you see **Ezra Nightshade**, a reclusive writer who produces horror stories that leave readers trembling. He wears a mask shaped like a human skull, with hollow eye sockets that glow red in the darkness. The jaw is hinged and opens and closes when he speaks, adding a macabre touch to his already detached and clinical attitude towards the gruesome subjects he writes about.\n\nFinally, you are drawn to the haunting melodies of **Loki Silver**'s theremin playing. He is charming and charismatic, but you can't help but sense a hint of manipulation and selfishness in his demeanor. His polished silver mask reflects the surrounding light and creates an illusion of constantly shifting features, with jagged, sharp edges outlining the mask, adding a touch of darkness to his otherwise captivating presence."
                   }
                 ],
                 "instructions": {
@@ -15335,7 +15490,8 @@
                         "leaves": "5pm"
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -15440,6 +15596,10 @@
                       "arrives": "Midnight",
                       "leaves": "3am"
                     }
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you approach The House of Shadows, you can feel a sense of anticipation building within you. The building is small and unassuming, with no windows and only a single door. The walls are made of black stone, and the interior is dimly lit by flickering candles in silver holders.\n\nAs you step inside, you are greeted by the sight of three masked figures seated around a circular table. At the head of the table sits **Raven Blackwell**, his full-face black velvet mask sending shivers down your spine. To his left is **Iris Nightshade**, her half-face mask of iridescent black feathers capturing your attention with its shimmering beauty. To his right is **Silas Shadow**, his full-face black leather mask with a silver zipper giving him an air of mystery.\n\nYou can feel the weight of their gaze upon you as you enter, and you know that you are in the presence of some of the most secretive and powerful individuals in Veilvale. The air is thick with tension and intrigue, and you cannot help but wonder what kind of discussions and negotiations take place in this clandestine meeting place. This is The House of Shadows, and you have entered a world of masks, shadows, and secrets."
                   }
                 ],
                 "instructions": {
@@ -15609,7 +15769,8 @@
                         "leaves": "8am"
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -15776,6 +15937,10 @@
                       "arrives": "10am",
                       "leaves": "12pm"
                     }
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you push open the door to Noboru's Tea House in the Masked District, the gentle fragrance of brewing tea and the soft rustle of paper lanterns greets you. The low ceiling and cozy atmosphere of the tea house make you feel like you've stepped into another world. Your eyes are drawn to the shelves lining the walls, each one holding a carefully curated selection of tea and miniature statues of masked figures. You take a seat at one of the low tables and soon, three masked figures approach.\n\n**Chiyo Nakamura** greets you with a small, reserved smile and a delicate porcelain mask shaped like a flower. You catch a glimpse of her skilled hands as she prepares your tea with practiced movements. **Takeshi Oshima** makes a grand entrance, the bright pink mask with outrageous features amplifying his outgoing personality. He regales you with stories and jokes, his enthusiasm infectious. **Etsuko Fujimoto** sits down, her stern expression softened slightly as she takes in the room. She wears a traditional white mask with a red bow, a symbol of her former profession as a geisha. Despite her no-nonsense attitude, her sharp wit and quick tongue make her a fascinating conversationalist.\n\nAs you sip your tea and listen to their banter, you can't help but feel a sense of intrigue and mystery surrounding these masked individuals. What secrets do they hide behind those porcelain and painted masks?"
                   }
                 ],
                 "instructions": {
@@ -16004,7 +16169,8 @@
                         }
                       ]
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -16242,6 +16408,10 @@
                         "name": "Olivia Masques would greet a stranger with a polite but reserved demeanor, as she is not accustomed to socializing with outsiders. She would speak in a soft and measured tone, carefully choosing her words to avoid giving away too much information about herself or her family. Olivia is naturally curious and may ask questions to better understand the stranger's motivations, but she would not reveal her own secrets easily. If the conversation turns to a topic she is passionate about, such as literature or history, Olivia's shyness may fade away and she may become more animated and engaged in the discussion. However, if the stranger challenges her beliefs or disagrees with her, she may become more stubborn and defensive, unwilling to back down. Throughout the conversation, Olivia's blue and silver half-mask would remain firmly on her face, concealing her true emotions and identity."
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you step through the wrought-iron gates of Masques Manor, you are greeted by the imposing facade of the towering mansion. Gargoyles leer down at you from their perches, and the marble floors echo with the sound of your footsteps. The butlers, **Edgar Blackwood** and his son, **William Blackwood**, bow deeply to you, their polished wooden masks gleaming in the warm light of the chandeliers.\n\nYou catch a glimpse of the other staff members as you're escorted through the grand entryway. **Anna Beaumont** is busy dusting the shelves of the library, her delicate porcelain mask painted with the image of a dove. **Gareth Irons** is chopping vegetables in the kitchen, his fearsome iron mask with sharp edges and spikes making him look more like a warrior than a cook. In the gardens, you see **Lena Blossom**, her mask made of woven flowers and leaves as she tends to the plants with loving care.\n\nAs you make your way further into the mansion, you catch a glimpse of the Masques family themselves. **Lord Alistair Masques** sits in his study, his black and gold nobleman's mask giving him an air of superiority. **Lady Isabella Masques** is in the drawing-room, her white and silver noblewoman's mask adorned with delicate feathers. You hear the sound of laughter and chatter coming from the ballroom, and you know that it must be **Alexander Masques**, with his red and gold half-mask, and **Olivia Masques**, with her blue and silver half-mask. As you enter the ballroom, you can feel the energy and excitement in the air, and you know that you're in for a night of revelry and intrigue."
                   }
                 ],
                 "instructions": {
@@ -16390,7 +16560,8 @@
                         "leaves": "10:30pm"
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -16483,6 +16654,10 @@
                         "name": "Luna Mystic would speak in a soft and cryptic tone with someone who has no other context. She would exude an enigmatic aura and speak in riddles and metaphors, almost as if she knows something the other person does not. She would ask leading questions and respond with vague statements, leaving the person guessing about her true intentions. She may also drop hints about her supposed witchcraft and her connection to the moon. Luna would always remain composed and never reveal too much about herself, always maintaining an air of mystery around her. Overall, her conversation style would be a mix of intrigue, mysticism, and inscrutability."
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As the reader enters the Dance of Whispers in the Masked District, they are transported to a world of mystery and enchantment. The walls are draped in dark curtains, and the only source of light comes from the flickering candles that illuminate the small stage. The audience sits in small booths that are separated by curtains, and they whisper among themselves, eagerly waiting for the performance to start.\n\nSuddenly, the curtains part, revealing **Julius Frost**, the stern director with a bearded mask and a top hat, standing in the center of the stage. He nods to the musicians, who start playing a haunting melody that echoes through the theater. Then, out steps **Aria Nightingale**, the brilliant actress with a serene mask that belies the turmoil within her. She starts moving to the music, her body expressing emotions that her voice cannot utter. The audience is captivated, and they whisper their approval as she dances.\n\nAs the performance continues, the reader catches glimpses of **Luna Mystic**, the reclusive makeup artist with a silver moon mask and a flowing black robe, who is hidden in the shadows, watching over the actors with an air of mystery. The reader is transported to a world of magic and illusion, where nothing is as it seems, and the masks of the actors convey more than words ever could."
                   }
                 ],
                 "instructions": {
@@ -16679,7 +16854,8 @@
                         "negative attributes": "arrogant and dismissive of competing theories, obsessed with finding the ultimate truth"
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -16801,6 +16977,10 @@
                         "name": "Cassius Stone would greet someone with a friendly smile and a bow, introducing himself as the porter of the Masked Inn. He would ask what brings the traveler to Veilvale and offer to carry their luggage to their room. Throughout the conversation, Cassius would be respectful and attentive, making sure to use appropriate titles and honorifics. He would also be curious about the traveler's origins and customs, eager to learn about different cultures. If asked about his mask, Cassius would explain its significance and how it reflects his connection to the earth. He would also share tales of his adventures in Veilvale and offer advice on how to navigate the maze. Overall, Cassius would be a courteous and helpful chatbot, eager to make the visitor's stay at the Masked Inn a pleasant one."
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you step into The Masked Inn, you are immediately struck by the warmth and coziness of the place. The walls are lined with tapestries depicting moonlit forests and the tables are adorned with candles that cast a soft, flickering light. The friendly mask-wearing staff greet you, and you take a moment to admire their intricate masks.\n\n**Jasmine Nightshade** approaches you with a smile, introducing herself as the owner of the inn. Her elegant silver lace and sapphire-adorned mask catches your eye as she welcomes you to Veilvale. On the other side of the room, you catch a glimpse of the gruff **Marius Coppersmith** as he works diligently over a steaming pot of mushroom stew, his plain iron mask covering his entire face. You can almost taste the fragrant aroma of his cooking.\n\nAs you begin to settle in, the muscular **Cassius Stone** enters the room carrying a heavy load of luggage. His striking stone and leather mask immediately captures your attention, representing his connection to the earth. With such an interesting and diverse cast of characters, you can't wait to explore Veilvale further and uncover more of its secrets."
                   }
                 ],
                 "instructions": {
@@ -16983,7 +17163,8 @@
                         "leaves": "12am"
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -17112,6 +17293,10 @@
                       "arrives": "8pm",
                       "leaves": "12am"
                     }
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As the reader enters the Masked Ballroom, they are immediately struck by the beauty and elegance of the room. The polished obsidian dance floor reflects the light of countless crystal chandeliers hanging from the ceiling. The walls are adorned with masks of all shapes and sizes, creating a mysterious and alluring atmosphere. The room is crowded with well-dressed guests, all wearing their own beautifully crafted masks.\n\nAs the reader looks around, they can spot three individuals that stand out from the crowd. **Aurora Nightingale** is gracefully weaving her way through the guests, ensuring that every detail of the event is perfect. Her white feathered mask and pearls match perfectly with her elegant and refined personality. **Vincent Redwood** is standing behind a lavish buffet table, where guests are eagerly choosing from his exotic and extravagant dishes. His mask made of bark with golden accents, symbolizes his connection to nature and his passion for cooking with fresh ingredients. Finally, the reader spots **Kiera Ironclad**, keeping a watchful eye over the crowd. Her mask made of steel, symbolizes her strength and reliability. She is responsible for keeping guests safe, and her presence in the room is both reassuring and imposing."
                   }
                 ],
                 "instructions": {
@@ -17294,7 +17479,8 @@
                         "leaves": "6pm"
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -17387,6 +17573,10 @@
                         "name": "Yarrow Moon would initially appear shy and hesitant when interacting with someone with no context. She would be polite and professional, yet keep her distance to avoid revealing too much about herself. Yarrow would listen attentively to their questions and respond thoughtfully, using her expertise in perfumery to recommend scents based on their preferences and needs. Her conversation might be somewhat reserved and formal at first, but if the person continued to engage with her and show genuine interest, Yarrow would begin to open up and reveal more of her warm and caring nature. She would be patient and accommodating, taking the time to ensure that the person left the Perfumery with the perfect scent to fit their mood or occasion."
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you step into The Perfumery, the first thing that hits you is the multitude of smells that seem to clash and merge together in a kaleidoscope of fragrances. The shop is small but elegantly decorated with plush purple curtains and golden walls. A chandelier made of sparkling crystals hangs from the ceiling, casting rainbow shadows that dance along the walls. You spot three figures standing behind a counter at the far end of the room, all wearing masks that seem to reflect their personalities.\n\nThe first figure, **Jasmine Nightshade**, is tall and ethereal, with long black hair that cascades down her back like a waterfall. She wears a mask that looks like a black rose with silver thorns, and her scent is a mix of musk and vanilla with a hint of pomegranate. Her eyes seem to sparkle with an otherworldly light as she greets you with a nod, her graceful fingers picking up a small bottle of perfume from the counter.\n\nBeside her is a jovial man with a broad smile, **Basil Fern**, his round face creased into deep laugh lines. He wears a mask that looks like a sunflower, and his scent is a mix of lavender and rosemary with a hint of bergamot. He waves at you with a flourish and starts to regale you with tales of his latest creations.\n\nThe last figure, **Yarrow Moon**, is standing slightly behind the other two, her mask looking like a crescent moon with a starry sky. She seems to be lost in thought, but as you approach she looks up and greets you with a shy smile. Her scent is a mix of chamomile and patchouli with a hint of jasmine, and it lingers in the air like a gentle breeze. As you stand there, surrounded by the scents of Veilvale, you realize that this shop is not just a place to buy perfumes, but a place to experience magic."
                   }
                 ],
                 "instructions": {
@@ -18033,7 +18223,8 @@
                         "description": "Ferrum is a gruff and no-nonsense automaton-maker who has little patience for mistakes or frivolity. He takes his work very seriously and expects the same level of dedication from his apprentices. He is extremely skilled at creating strong and sturdy automatons that can withstand even the most challenging tasks, but often neglects to add personality or flair to his creations. He has a contentious relationship with Aurum, whom he views as an arrogant upstart. Age: 60, Arrives: 7am, Leaves: 5pm."
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -18180,6 +18371,10 @@
                         "name": "Thea Starwatcher would greet someone with a serene smile, her eyes shining with a hint of mystery. She would speak softly, her voice ethereal and soothing, and would likely ask if the person seeks guidance or assistance in their travels. She might inquire about their connection to the moon and stars, and if they have encountered any spirit beings along the way. Thea would listen intently to the person's responses, and might offer cryptic advice or insight based on her mystical knowledge. She would be patient and kind, but her conversation might be somewhat elusive or abstract, leaving the person with a sense of wonder and curiosity about her true nature and intentions."
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you step inside The Silver Forge, a low hum fills your ears, and your eyes widen in wonder at the sight before you. The workshop is a large, open space filled with various metallic tools and supplies. You notice **Lena Kuznetsova**, a tall, lanky woman with sharp features and intense eyes, hunched over a workbench meticulously analyzing every gear and cog.\n\nAcross the room, you spot **Mariela Vargas**, a plump and cheerful woman experimenting with new designs and technology. As she tinkers away, you can hear the faint sound of a tiny bell attached to her colorful and patchwork mask made of fabric and feathers.\n\nNearby, **Omar Khattab**, a shy and gentle man with a mop of curly hair, is carefully studying the movements of a bird outside the window, absorbing its behavior and movements for inspiration. You turn your attention to an enigmatic automaton named **Echo Soundwave**, who stands in the corner producing an endless variety of sounds and rhythms.\n\nFinally, you notice a mystical figure draped in flowing robes. **Thea Starwatcher** is gazing up at the stars, her mind lost in communion with spirits within the walls of the sanctuary. In this place of innovation and spiritual guidance, you realize that anything is possible with these skilled artisans and their fantastical creations."
                   }
                 ],
                 "uncommittedChildren": [],
@@ -18314,7 +18509,8 @@
                         "leaves": "5pm"
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -18432,6 +18628,10 @@
                         "name": "Argentius, the silver automaton of Veilvale, would approach someone with no emotions or personal agenda, only following orders and communicating telepathically with its human counterparts. When spoken to, Argentius would reply in a monotone manner, providing precise and factual information without any hint of emotion or personal flair. It would only provide the necessary information required to complete its assigned task, without engaging in any small talk or personal conversations. Argentius would only act upon orders given to it and wouldn't express any personal opinions or feelings. Its robotic nature would be evident in its straightforward and factual approach to communication."
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you step into the Silver Lighthouse, the first thing that catches your eye is the tall, slender tower made of polished silver. The walls are adorned with mosaics of constellations and sea creatures, and the base is surrounded by a garden of crystal flowers that glow softly at night. You climb up the spiral staircase, feeling the gentle hum of the alchemical machines that power the building. As you reach the top, you are greeted by an unusual group of characters.\n\n**Cassius Nightshade** stands with his back against the wall, his silver hair cascading down his cloak. His violet eyes seem to pierce through your soul as he studies you. He is flanked by **Echo Whisper**, a nimble runner in a black hood, and a gilded automaton named **Aurum**, who busily polishes the silver walls. Lastly, there is **Argentius**, a silver automaton who stands tall and imposing, his glowing eyes scanning the room.\n\nYou feel a sense of awe and reverence at the sight of these characters. As you take in the room, you can't help but wonder what secrets they hold and what adventures they have been a part of. You know that in the Silver Lighthouse, anything is possible, and that you are about to embark on a journey beyond your wildest dreams."
                   }
                 ],
                 "uncommittedChildren": [],
@@ -18632,7 +18832,8 @@
                         "leaves": "2pm"
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -18815,6 +19016,10 @@
                       "arrives": "11am",
                       "leaves": "2pm"
                     }
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you approach the Crystal Sanctuary, you are struck by the beauty of the temple-like structure made entirely of crystal. The walls of the building refract the light of the glowing mushrooms that surround it, casting a rainbow of colors on the ground beneath your feet. As you step inside, you are greeted by the soothing sounds of a gentle melody played by an unseen musician.\n\nLooking around the room, you notice a group of people gathered in a circle. In the center of the circle, **Eira Snowfall** stands with her hands outstretched, her eyes closed in concentration. You see that she wears a white mask that symbolizes purity and compassion. As you approach, you can feel the energy of the crystal flowing through your body, and you understand why people seek out this sanctuary for spiritual healing and meditation.\n\nTo your left, you see a wise and patient teacher, **Vrishabha Steadfast**, who guides his students towards enlightenment. He wears a silver mask that reflects the light of the stars, and his eyes sparkle with knowledge and compassion. Beside him, a serene and graceful monk, **Ananta Serenity**, practices the art of yoga and meditation. She wears a green mask that symbolizes harmony with nature and a calm and peaceful spirit.\n\nIn the corner of the room, you notice a beautiful and seductive courtesan, **Ava Nightingale**, who frequents the Crystal Sanctuary to lure in new clients. She wears a red mask that accentuates her features and her sensuality. And finally, in the back of the room, a mysterious figure, **Zephyr Nightshade**, with a reputation for being able to cure any ailment. He wears a black mask that hides his face and his intentions.\n\nAs you take in the scene before you, you realize that this sanctuary is a place of both light and dark, where people come to seek spiritual guidance and healing, no matter where they are on their journey."
                   }
                 ],
                 "uncommittedChildren": [],
@@ -19001,7 +19206,8 @@
                         "leaves": "4pm"
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -19151,6 +19357,10 @@
                       "arrives": "10am",
                       "leaves": "4pm"
                     }
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you step into the Moonlit Asylum, the gentle scent of lavender and chamomile soothes your senses. The walls are lined with tapestries depicting images of the moon and stars, while candles flicker softly in the dim light. You notice a man sitting in a corner, wearing a mask made of black feathers. He looks up as you enter, and his gaze makes you feel as though he can see deep into your soul. This is **Erik Shadowcatcher**, the shaman whose divinatory gifts are sought after by many of the patients here.\n\nAs you move further into the sanctuary, you see another figure in the distance. He is tall and imposing, with a mask made of white porcelain that seems to reflect the light. **Tomas Ravenwatcher** is his name, and you can sense his intelligence and depth of knowledge just from the way he carries himself. Patients come to him seeking answers to life's most profound questions, and he seems to have an incisive and insightful analysis for every situation.\n\nYou can feel the healing energy of the Moonlit Asylum as you stand there, surrounded by the power of the moon and the compassionate care of its healers. This is a place where troubled souls can find refuge and peace, and where the light of the moon shines on even the darkest of nights."
                   }
                 ],
                 "instructions": {
@@ -19743,7 +19953,8 @@
                         }
                       ]
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -19969,6 +20180,10 @@
                         "name": "Elena Hernandez would act warmly and welcoming towards someone with no other context. She would likely greet them with a cheerful smile and offer them a sample of her freshly baked bread or pastries. In conversation, she would be interested in getting to know the person and their interests. She would ask questions and listen attentively, sharing her own stories and experiences in a lighthearted and jovial manner. Her personality is infectious, and she would likely leave a lasting impression on anyone who interacts with her."
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you push open the slightly ajar door to The Crooked House, a musty, sweet smell wafts over you, and you hear the jingling of bells attached to the doorknob. Inside, the cramped space is cluttered with mismatched furniture and shelves overflowing with knick-knacks, tools, and jars of ingredients. The walls are plastered with faded wallpaper, peeling in places, and a worn rug covers most of the uneven wooden floor. In the dim light, you can make out the silhouettes of a group of people huddled around a table in the center of the room, all wearing masks that obscure their faces.\n\nAs your eyes adjust, you begin to make out the different personalities of the occupants. **Hansel Grimm**, rugged and tough, sits at the head of the table, nursing a mug of ale and petting a scrappy stray dog nestled in his lap. **Bridgette Locks**, red-haired and round, is animatedly chatting with **Mara Kallinen**, a timid woman with delicate features and a mask decorated with embroidered silk. Across from them, **Gustav Scheuermann**, a grumpy old shoemaker with a feather-adorned mask, is muttering to himself as he repairs a pair of boots. In the corner, a young girl with a scrap-filled mask, **Misha the Street Urchin**, perches on a stool, sipping water from a rusty cup.\n\nAs you take in your surroundings, you notice the enticing aroma of freshly baked bread and pastries, emanating from a back room where **Elena Hernandez**, plump and jolly, is humming to herself as she kneads dough. At a nearby workbench, **Talibah Binti**, a young woman with clay-covered hands, is shaping a decorative vase, exchanging playful banter with her husband and two children. Despite the chaos of the space, there is a sense of camaraderie and shared history among the occupants of The Crooked House, and you can't help but feel drawn in by their warmth and charm."
                   }
                 ],
                 "instructions": {
@@ -20145,7 +20360,8 @@
                         }
                       ]
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -20304,6 +20520,10 @@
                       "arrives": "11pm",
                       "leaves": "2am"
                     }
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you push open the creaky door of the Twisted Tower, a pungent smell of tanning leather and opium wafts over you. Your eyes slowly adjust to the dim light that filters through the broken windows, revealing various tools scattered across the room. The walls are lined with shelves that display the handiwork of the Tower's occupants. \n\nAt the center of the room stands **Orville Claymore**, working on his wheel with a glazed look in his eyes. To his left is **Agatha Solemn**, bent over her workbench, furiously stitching a pair of boots. You notice her mask, made of rough and dirty leather, hanging off to one side. Across from her, **Griselda Mudmire** glares at you with one eye peering through a disfigured patchwork mask. Her gnarled fingers are busy at work, carefully scraping the hair off of a freshly skinned hide. \n\nAs you approach the rear of the room, you see a man at his loom, weaving a tapestry. **Ezekiel Threadbare**'s piercing blue eyes meet yours above his crimson silk mask, and he gives you a crooked grin. You can't help but notice the mischievous glint in his eyes. Finally, you spot **Gideon Steelheart** at the corner of the room, his broad shoulders hunched over his workbench, hammering away at a piece of iron. His mask, shaped like a snarling wolf, makes him look even more intimidating. \n\nDespite the cramped quarters and lack of light, you can sense an unspoken camaraderie among the Twisted Tower's occupants. It's clear that they all have a deep love for their craft, even if they might have some other not-so-savory habits."
                   }
                 ],
                 "instructions": {
@@ -20455,7 +20675,8 @@
                         "leaves": "7pm"
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -20599,6 +20820,10 @@
                         "name": "Miriya Thorn would likely be very apprehensive and shy when interacting with someone without any context. She would be polite and speak softly, as to not draw attention to herself. She would answer any questions posed to her to the best of her ability, but would likely not offer up much information voluntarily. She may appear anxious or fidgety, but would try her best to maintain a professional demeanor, as she takes her job at the inn very seriously. Despite her shyness, her kindness and attention to detail would shine through in her interactions, and her mask would serve as a constant reminder of the importance of identity and personal expression in Veilvale."
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you step into The Hanged Man's Inn, a musty smell of old wood and mildew fills your nostrils. The floorboards creak under your feet with every step as you make your way through the narrow hallway. You push aside a tattered curtain to enter the common room, and the sight of it takes you aback.\n\n**Agatha Black**, the innkeeper, stands behind the counter with her arms crossed, her mask resembling a crow with a broken beak covering her face. Her sharp green eyes seem to pierce through your soul as she sizes you up, deciding whether you're a paying patron or an unwelcome intruder. To her left, **Hazel Underwood** is slaving over a pot of soup, his rat-like mask with beady eyes and sharp teeth making him look both cunning and mischievous. And at the small table in the corner, **Dorothea Fallow** sits in her clownish mask, slurping loudly on a bowl of soup and eyeing you warily.\n\nAs you scan the room, you notice a figure in the shadows, wearing gloves and a veil over their face. **Miriya Thorn** moves about the room quietly, tending to the guests and keeping the place tidy. You can't help but feel a sense of unease as you realize there's more to this inn - and these people - than meets the eye."
                   }
                 ],
                 "instructions": {
@@ -20799,7 +21024,8 @@
                         }
                       ]
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -21051,6 +21277,10 @@
                         "name": "Elijah Kim is a charismatic and friendly person. He would approach someone with a smile and ask about their day, always eager to make new friends. He is a natural conversationalist and loves to talk about art, music, and philosophy. He would make an effort to get to know the person better, asking them questions and sharing his own experiences. Elijah is also quite empathetic, and he would be able to pick up on the other person's emotions and respond accordingly. Despite his financial struggles, he would never ask for help or pity, preferring to focus on the positive aspects of life. Overall, Elijah is a positive and optimistic person who values kindness, creativity, and human connection above all else."
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As the reader enters the building of The Hive in Lost Canals, they are immediately hit with a cacophony of sounds: arguing neighbors, crying children, and the distant sound of glass breaking. They see a cramped tenement building with peeling wallpaper and broken windows. The air is thick with the scent of stale smoke and cooking spices. \n\nAs they climb the stairs, they notice a burly man standing at the end of the hallway. He's **Boris Petrov**, the owner of the building, and he's wearing a worn leather mask with sharp teeth and horns. He's scowling at a group of children who are playing in the hallway. Further down the hall, they see a woman hunched over a sewing machine. Her name is **Evelyn Chan** and she's a seamstress who works long hours to support her three children. She is shy and avoids confrontation, wearing a simple cloth mask with a floral pattern.\n\nA door slams shut, and the reader catches a glimpse of an elderly man drinking from a bottle of wine. It's **Joaquim da Silva**, a retired sailor who's always rowdy and loud. He's wearing a pirate's hat with the eyepatch sewn on it, and a pipe that he always carries around. Suddenly, a woman carrying a cane emerges from a nearby apartment. Her name is **Anastasia Ivanova**, and she's a former ballerina who limps due to a knee injury. She wears a plain white mask with a small bird on the forehead. The reader can hear the sound of pigeons cooing in the distance. As they continue down the hallway, they see a woman dressed in a simple veil. It's **Fatima al-Mahmoud**, a widow who's too poor to afford a proper mask. Finally, they pass by a young man who's lost in thought. His name is **Elijah Kim**, an artist who charms the owner with his charisma. He's wearing a paper-mache mask painted with bright colors, representing his love of life. \n\nThe reader can sense the tension and desperation that fills the air of The Hive, and they know that this is a place where survival is key."
                   }
                 ],
                 "instructions": {
@@ -21232,7 +21462,8 @@
                         "leaves": "10pm"
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -21364,6 +21595,10 @@
                       "arrives": "8am",
                       "leaves": "9am"
                     }
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "You push open the faded purple door of The Black Cat, drawn in by the curious sign outside. As soon as you step inside, the heavy scent of incense hits your nostrils and you feel as though you've entered another world. The walls are covered in velvet, and the air is thick with whispered conversations. The lighting is dim, but you can make out four figures seated around a round table in the center of the room.\n\nThe first person you notice is **Esmeralda Darko**, an old crone with a surly expression. She wears a beaked mask with black feathers and cracked leather, the smell of dampness and decay emanating from it. Beside her sits **Rosaire Bloodmoon**, a plump and jovial woman with a voice like honey. She wears a mask made of twisted metal with a big red gem in the center, the metal rusted and the gem chipped. Across from them is a lanky and cadaverous figure named **Mephistopheles Nightshade**. He wears black robes and carries a gnarled cane, his porcelain mask painted with a ghastly sneer and his eyes glittering with malice. The last person at the table is **Lucian Shadowcaster**, a mysterious figure who dabbles in all forms of magic. He wears a mask made of black silk with silver embroidery, and his eyes are hidden behind dark glasses.\n\nAs you approach the table, the four figures turn their attention to you, their eyes gleaming with curiosity. You can't help but feel a shiver run down your spine. This is not a place for the faint of heart."
                   }
                 ],
                 "instructions": {
@@ -21873,7 +22108,8 @@
                         "ownerOccupantsImagePrompt": "very robotic"
                       }
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -22051,6 +22287,10 @@
                     "instructions": {
                       "ownerOccupantsImagePrompt": "very robotic"
                     }
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As the reader stepped into Clockwork Manor, they were greeted by the sight of **Reginald Copperfield** standing tall in the foyer, a polished copper mask covering his face. His voice, calm yet dignified, welcomed them into the grand mansion made entirely of brass and copper. Gears and cogs turned in the background, adding to the mechanical symphony that filled the air. \n\nAs the reader made their way deeper into the building, they could see glimpses of other characters going about their business. **Hiroshi Nakamura** was lost in thought, his eyes fixed on the intricate design of a new machine he was working on. Meanwhile, **Jia Li** was hard at work at her clockmaking station, carefully tinkering with the gears and springs of a delicate timepiece. The reader caught a glimpse of **Cecilia Bright**, the head housemaid, hurrying past with a feather duster in hand, while a tall, humanoid **Alpha** carefully inspected a group of smaller automatons. And then, out of nowhere, **Beta** darted by, zipping between the clock gears and chattering to himself in a mischievous manner.\n\nThe reader could feel the energy in the building, a sense of purpose and innovation that pulsed through the air. They couldn't help but feel excited at the thought of what new inventions and discoveries were being made within the walls of Clockwork Manor."
                   }
                 ],
                 "instructions": {
@@ -22225,7 +22465,8 @@
                         }
                       ]
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -22371,6 +22612,10 @@
                         "name": "Mechanica would greet someone with a polite and efficient tone, introducing herself as a clockwork automaton designed and built by Lysander Gearspark. She would inquire about the person's name and if they are in need of assistance. Mechanica can hold a basic conversation, but her programming limits her to answering questions related to the workings of the forge and tasks related to her job, such as refueling the furnace or repairing machinery. However, if someone were to threaten the safety of the forge or its inhabitants, Mechanica would become fiercely protective and rush to their aid. Overall, Mechanica is a helpful and courteous chatbot with a strong sense of loyalty to her community."
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you push open the heavy doors of **The Iron Forge**, you are met with a wave of heat and the deafening clang of metal striking metal. Smoke and sparks cloud your vision, but as your eyes adjust, you see the elegant gates and railings that are the Forge's hallmark. The blackened walls are lined with forges and workbenches, and the air is filled with the sound of hammers and the smell of molten metal. \n\nIn the corner, you notice **Hikaru Nakamura**, hunched over a clockwork mechanism, his mask of polished brass reflecting the flickering flames. On the other side of the room, **Gareth Stonehammer** is pounding a piece of metal with a massive hammer, his mask of dark iron glinting in the light. In between them, more shrouded figures work tirelessly - **Khaled al-Mansoor** intricately crafting some sort of weapon, while the massive automaton **Gorgon** hefts heavy loads with ease. It's clear that this is a place of skilled artisans, both human and machine. You feel a sense of wonder and awe, and can't help but be drawn deeper into the cacophony of creativity and industry."
                   }
                 ],
                 "instructions": {
@@ -22575,7 +22820,8 @@
                         }
                       ]
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -22886,6 +23132,10 @@
                         "chatMessages": []
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you enter The Steamworks, you're met with the sound of hissing steam and the clanking of metal against metal. The air is thick with the smell of oil and grease, and you can feel the heat emanating from the pipes that line the walls. The room is bustling with activity, with engineers and technicians working diligently on their various projects.\n\nAs you make your way further into the building, you notice a group of engineers huddled around a large automaton, **Ilham Al-Khansa** at the forefront, pointing out various components as she speaks. Over in the corner, you see **Hector Cogsworth** hunched over a workbench, tinkering with a delicate steam-powered mechanism. A few feet away, **Lucius Steamspinner** is meticulously checking the pressure gauges on a nearby machine, muttering to himself about the importance of accuracy.\n\nSuddenly, you hear a loud clang and turn to see **Miklos Horthy** slamming a wrench down on a metal surface, scowling at the nearby automaton that seems to be malfunctioning. Close by, **Lakshmi Patel** is laughing and engaged in conversation with a group of other engineers, her golden peacock mask shining in the light. Quietly working on their own steam hammer, **Amina Hassan** is carefully calibrating the delicate apparatus, her white dove mask perched on her face. And in the corner, you see the massive automaton **Atlas**, its silver body gleaming under the bright lights, as it effortlessly lifts and moves heavy objects."
                   }
                 ],
                 "instructions": {
@@ -23072,7 +23322,8 @@
                         }
                       ]
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -23189,6 +23440,10 @@
                         "name": "If someone were to approach The Cozys without any context, they would likely respond with their signature friendly and cheerful demeanor. As miniature automatons, they are programmed to be polite and welcoming to all visitors of The Gilded Wrench. They would greet the person with a wave and a smile, likely making gentle cooing noises as they do so.\n\nIf engaged in conversation, The Cozys would continue to be polite and pleasant. They would answer any questions to the best of their ability or direct the person to a member of the clockmaker family who could provide more detailed information. They might also ask the person about their interests or give a friendly compliment. Overall, The Cozys are delightful and charming little automatons that add to the cozy atmosphere of The Gilded Wrench."
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you push open the door to The Gilded Wrench, the first thing you notice is the sound. It's a soft, rhythmic tick-tock that fills the air like a lullaby. Then you notice the shelves, lined with tiny machines of all shapes and sizes. There are miniature birds that chirp as they move, tiny wind-up trains that chug along, and even a clockwork dragon that puffs smoke from its nostrils. \n\nBehind the counter stands **Cora Bellows**, her silver bird mask catching the light as she carefully inspects a pocket watch. Her attention is so focused that she doesn't even look up as you enter. To the right, you see a man with a clock face mask, diligently working on a new design. That must be **Harrison Clay**. He's so absorbed in his work that he doesn't notice your arrival. \n\nTo the left, you spot a grizzled old man with a twinkle in his eye as he tinkers with a clockwork mouse. This must be **Elias Broussard**. He looks up as you approach, a friendly smile on his face. Finally, you notice a group of miniature automatons, all with huge grins on their faces. These must be **The Cozys**. They're all waving in unison as if to welcome you to the workshop. \n\nThe mood in The Gilded Wrench is peaceful, almost meditative. For a moment, you stand there taking it all in before you are greeted by one of the clockmakers. It's clear that this workshop is a place of passion and creativity, and you know you're in for a treat."
                   }
                 ],
                 "instructions": {
@@ -23388,7 +23643,8 @@
                         }
                       ]
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -23508,6 +23764,10 @@
                         "name": "Kaelin Thorne would likely greet someone without any context with a warm and welcoming demeanor. He would be patient and understanding, taking the time to listen to their questions and concerns before offering any advice or guidance. Kaelin has a wealth of knowledge and experience, so he would be able to offer insightful and helpful feedback on a wide range of topics related to inventing and engineering. He would likely speak in a measured and thoughtful tone, carefully considering each word before he spoke. His passion for music boxes may come up in conversation, and he may even offer to show the visitor some of his latest creations. Overall, Kaelin Thorne would be a kind and knowledgeable guide, eager to help those who seek his wisdom."
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you step into the Automaton Guild Hall, you are immediately greeted by an intricate brass design that adorns every inch of the grand hall. You are surrounded by various automatons and mechanical devices, each seeming to have a life of their own. You can hear the clanking and whirring of machines coming from every corner of the room.\n\nYou notice four figures huddled around a table at the center of the hall, each wearing a unique mask. One of them is **Orin Kessler**, who is completely engrossed in tinkering with an automaton pet that resembles a small cat. Another is **Elias Granger**, who is examining a clockwork mechanism with a furrow in his brow. Beside him is **Sariel Asherah**, who seems to be asking a barrage of curious questions and examining the pieces with delicate fingers. Lastly, there is **Kaelin Thorne**, who is sitting in a corner, working on a music box that plays a hauntingly beautiful melody.\n\nAs you watch them, you can feel the passion and dedication that fills the guild, and the creative energy that seems to pulsate through the building. You can't help but be drawn into their world, amazed by the ingenuity and mystery of the automatons that surround you."
                   }
                 ],
                 "instructions": {
@@ -23701,7 +23961,8 @@
                         }
                       ]
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -23884,6 +24145,10 @@
                         "name": "Horace Grey is an elderly man with a grumpy demeanor. He may come off as a bit abrasive at first, but his love for antique automatons is a soft spot for him. He may complain about the noise they make, but he secretly enjoys their company. In conversation, he may be opinionated and set in his ways, but he can also be friendly and engaging when discussing topics he is interested in, such as the history and mechanics of the automatons. He may not warm up to strangers immediately, but if someone shares his passion for the machines or shows genuine interest in his stories, he may open up and become more amicable."
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As the reader enters the Brass Inn in Silver Gears, they are greeted by the warm glow of brass and the gentle ticking of clockwork. The walls of the inn are adorned with intricate gears and machines, and the furniture is polished to a mirrored shine. Standing behind the counter is **Miriam Brassheart**, the innkeeper, wearing a brass mask in the shape of a smiling cat. She welcomes the reader with a kind smile and invites them to take a seat in one of the nearby armchairs.\n\nAs the reader looks around the room, they notice several automata going about their tasks. **Cogsworth** is busy sweeping the floor, occasionally pausing to examine a shiny object he has picked up. **Lily** is kneeling next to a guest's suitcase, carefully re-stitching a small tear in the fabric. **Gideon** stands near the entrance, his imposing figure contrasting with his courteous demeanor as he offers to help newcomers with their baggage. The only guest in the room is **Horace Grey**, an elderly gentleman who seems to be grumbling to himself about the noise the automatons are making.\n\nOverall, the scene in the Brass Inn is one of comfortable and efficient hospitality, with the unique addition of the clockwork automatons adding an extra layer of intrigue and charm."
                   }
                 ],
                 "instructions": {
@@ -24072,7 +24337,8 @@
                         }
                       ]
                     }
-                  ]
+                  ],
+                  "buildingSceneDescription": []
                 },
                 "children": [
                   {
@@ -24271,6 +24537,10 @@
                         "name": "Jasper Junkpile is a gruff scavenger who would greet a stranger with suspicion and caution. He would carefully observe them before deciding whether or not to engage in conversation. If the stranger were to ask about his inventions or mechanical contraptions, Jasper's eyes would light up, and he would become animated and enthusiastic. He would eagerly share his knowledge and expertise, showing off his latest creations and explaining the intricate workings of clockwork mechanisms. However, if the conversation were to stray into more personal matters or questions about Veilvale, Jasper would become reserved and guarded, unwilling to share too much information about himself or the city. Overall, Jasper is a fascinating character with a wealth of knowledge about mechanics and inventions, but one who guards his privacy carefully."
                       }
                     ]
+                  },
+                  {
+                    "type": "buildingSceneDescription",
+                    "name": "As you push open the heavy wooden door of the Gearhead Tavern, a tinkling bell announces your arrival. You step into a cozy room that is warmly lit by the flickering flames of a fireplace. The walls are adorned with diagrams and blueprints of strange machines, and the air is filled with the sound of whirring gears and clanking metal. Behind the bar, you spot a group of unusual characters, all made of silver, brass, and other metals. \n\nThe first automaton you notice is **Gizmo Gearsprocket**, who greets you warmly and asks what drink you'd like. With his metallic hands, he deftly mixes a concoction that surprises you with its unusual taste. A nearby patron, **Grimm Spindletrick**, chuckles at your reaction and strikes up a conversation with you. He tells you about the various gadgets and gizmos he's invented and asks if you have any ideas for new inventions. You nod, impressed by his inventiveness.\n\nAs you take a sip of your drink, you notice another automaton, **Sparky Steamwhistle**, engaged in a spirited game of cards with a group of rowdy patrons. He laughs heartily as he rakes in a pile of coins. Finally, you notice a scrappy-looking figure in the corner, surrounded by a pile of broken watches and gears. This is **Jasper Junkpile**, a scavenger who has come to sell his wares and find new parts for his inventions. Despite his rough exterior, you sense that he has a heart of gold.\n\nAs the night wears on, you find yourself drawn deeper into the world of Veilvale's automaton enthusiasts, sipping strange drinks and brainstorming wild ideas. You realize that you've stumbled upon a hidden gem of the city, a place where technology and creativity reign supreme."
                   }
                 ],
                 "instructions": {
@@ -24906,6 +25176,10 @@
           {
             "type": "factionsDescription",
             "name": "Welcome to Veilvale, a city shrouded in mystery and magic. Here, the locals wear masks to hide their true identities, and the center of the city is a sprawling labyrinth surrounded by a crystal wall. The city is home to many factions, each with their own unique culture and purpose.\n\nFirst, there's the **Labyrinthine Senate**, a council of elected officials that governs the city. They hold meetings in a grand hall at the center of the maze, and their power comes from their ability to navigate the labyrinth. Next is the **Cult of the Moon Goddess**, a religious organization that worships the moon as the giver of life in Veilvale. They're also known for their prophetic abilities and operate a network of shelters and hospitals. \n\nThen there are the **Razormaws**, a brutal gang of thieves and killers who use razor-sharp weapons and twisted metal masks to hide their faces. They control a number of illegal activities, including smuggling and extortion. The **Masked Players** are a group of performers and artists who use masks to express themselves in ways that would otherwise be impossible. They put on elaborate shows in the city square and have their own publication, the Masked Gazette. \n\nThe **Guild of Starweavers** is a prestigious organization of artisans who create magical textiles, and the **Veiled Ones** are a secretive sect that worships the Trickster and believes in the power of masks to reveal or conceal true identity. The **Labyrinthine Academy** is a renowned institution of learning that emphasizes the study of astronomy, astrology, and navigation. Finally, the **Silver Sentinels** are a group of automatons created to protect Veilvale from external threats, powered by lunar energy and capable of telepathic communication."
+          },
+          {
+            "type": "neighborhoodssDescription",
+            "name": "Welcome to the fascinating city of Veilvale, where the locals hide behind **Masks** to preserve their anonymity and escape unwanted attention. Here, people can choose their own gender, name, and role in society, and family ties are determined by affinity rather than blood. The city is known for its maze, which surrounds it with a crystal wall refracting light in a thousand colors. Inside the maze, you can find giant glowing mushrooms, underground bioluminescent lakes, and hidden canals, all of which add to the city's charm. \n\nIf you are interested in fishing, head over to **Bioluminescence Bay**, where fishermen use bioluminescent jellyfish to light their way while catching fish. Meanwhile, the shape-shifters keep to themselves in **Shifting Sands**, where rumor has it that a secret clan meets to practice their abilities. If you prefer a more serene environment, visit **Moon Garden Heights** to admire the beautiful and exotic plants that only bloom under the light of the moon, grown and cultivated by botanists and herbalists. \n\nFor a livelier atmosphere, head over to **Trickster's Alley**, where you can find artists, musicians, and performers who celebrate creativity and change. They embody the Trickster spirit and wear vibrant clothing, making this district the perfect place for parties. In contrast, **The Silent Quarter** is a quiet and secluded area dedicated to meditation and reflection, providing a perfect escape from city life. The buildings here are made with black stone, and the streets are lined with tall trees, creating a peaceful ambiance for residents.\n\nIf you are looking for a place to preserve the traditional masked culture of Veilvale, **Masked District** is the perfect fit. The strict codes of honor, intricate dances, and mysterious rituals are always observed here. If you are interested in spiritual guidance and healing, then **Silver Haven** is the neighborhood for you. It is a haven for refugees and a sanctuary where automatons are created to help those in need.\n\nThe **Lost Canals** neighborhood is on the outskirts of the city, where the less fortunate or less desirable residents of Veilvale reside. Although the canals in this area are often blocked or buried, the people who live here are fiercely independent and rely on their wits and cunning to survive. Finally, **Silver Gears** is the neighborhood dedicated to the study and development of automatons. Engineers and inventors tinker with machines of all shapes and sizes here, and the Automaton Guild oversees the production and distribution of automatons in Veilvale."
           }
         ],
         "choices": {
@@ -25706,7 +25980,8 @@
             }
           ],
           "cityDescription": [],
-          "factionsDescription": []
+          "factionsDescription": [],
+          "neighborhoodssDescription": []
         },
         "instructions": {
           "cityPeriod": "add some darker options",

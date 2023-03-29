@@ -1,7 +1,7 @@
 import { useEffect } from "preact/hooks";
 import { twMerge } from "tailwind-merge";
 
-export const Page = ({ back, title, background, children }) => {
+export const Page = ({ back, title, background, saturated, children }) => {
   useEffect(() => {
     document.title = title || "City";
   }, [title]);
@@ -11,6 +11,10 @@ export const Page = ({ back, title, background, children }) => {
   let style = "";
   if (background) {
     style = `background-image: url(${background}); background-repeat: no-repeat; background-size: cover;`;
+  }
+  let saturationStyle = "background-color: rgba(255, 255, 255, 0.3)";
+  if (saturated) {
+    saturationStyle = null;
   }
   return <div class="flex flex-col h-full min-h-screen bg-gray-900" style={style}>
     <div class="flex items-center justify-between px-4 py-2 shadow-md" style="background-color: rgba(0, 0, 0, 0.3)">
@@ -23,7 +27,7 @@ export const Page = ({ back, title, background, children }) => {
         </a> : null}
       <h1 class="text-2xl font-semibold text-gray-200">{title || "??"}</h1>
     </div>
-    <div class="flex-grow overflow-y-auto p-4 w-full" style="background-color: rgba(255, 255, 255, 0.3)">
+    <div class="flex-grow overflow-y-auto p-4 w-full" style={saturationStyle}>
       {children}
     </div>
     <footer class="flex items-center justify-center h-16 bg-gray-800 text-white">
@@ -50,8 +54,10 @@ export const SiteImage = ({ src, class: _class, ...props }) => {
   }
   _class = twMerge("block w-full m-2 rounded-lg", _class);
   return (
-    <div class="float-right w-1/2 clear-both">
-      <img src={src} class={_class} {...props} />
+    <div class="lg:float-right lg:w-1/2 md:clear-both w-full">
+      <a href={src} target="_blank">
+        <img src={src} class={_class} {...props} />
+      </a>
     </div>
   );
 };
@@ -62,7 +68,7 @@ export const InsetImage = ({ src, class: _class, ...props }) => {
   }
   _class = twMerge("block w-full m-2", _class);
   return (
-    <div class="float-right w-36">
+    <div class="float-right lg:w-36 w-24">
       <img src={src} class={_class} {...props} />
     </div>
   );
@@ -83,12 +89,12 @@ export const H2 = ({ children, class: _class, ...props }) => {
 };
 
 export const TextBox = ({ children, class: _class, ...props }) => {
-  _class = twMerge("text-gray-900 w-1/3 p-3 rounded m-4 leading-relaxed", _class);
+  _class = twMerge("text-gray-900 lg:w-1/3 p-3 rounded m-4 leading-relaxed", _class);
   return <div style="background-color: rgba(255, 255, 255, 0.7)" class={_class} {...props}>{children}</div>;
 };
 
 export const ChoiceList = ({ children, intro, class: _class, ...props }) => {
-  _class = twMerge("m-4 rounded w-1/3 p-2", _class);
+  _class = twMerge("m-4 rounded lg:w-1/3 p-2", _class);
   return <div style="background-color: rgba(255, 255, 255, 0.7" class={_class} {...props}>
     <div>{intro}</div>
     <ul class="block">{children}</ul>

@@ -14,9 +14,10 @@ module.exports = {
   content: ["./src/**/*.{html,js}"],
   theme: {
     fontFamily: {
-      body: ["Alkatra", "serif"],
-      display: ["Merriweather", "serif"],
-      sans: ["Merriweather", "Inter", "sans-serif"],
+      body: ["Merriweather", "serif"],
+      display: ["Inter", "sans-serif"],
+      sans: ["Merriweather", "serif"],
+      written: ["Alkatra", "Merriweather", "sans-serif"],
     },
     extend: {
       flex: { 2: "2 1 0%" },
