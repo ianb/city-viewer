@@ -56,6 +56,18 @@ export const SiteImage = ({ src, class: _class, ...props }) => {
   );
 };
 
+export const InsetImage = ({ src, class: _class, ...props }) => {
+  if (!src) {
+    return null;
+  }
+  _class = twMerge("block w-full m-2", _class);
+  return (
+    <div class="float-right w-36">
+      <img src={src} class={_class} {...props} />
+    </div>
+  );
+};
+
 export const H1 = ({ children, class: _class, ...props }) => {
   _class = twMerge("text-2xl font-semibold text-gray-200", _class);
   return <h1 class={_class} {...props}>
@@ -63,6 +75,11 @@ export const H1 = ({ children, class: _class, ...props }) => {
       {children}
     </span>
   </h1>;
+};
+
+export const H2 = ({ children, class: _class, ...props }) => {
+  _class = twMerge("text-xl font-semibold", _class);
+  return <h2 class={_class} {...props}>{children}</h2>;
 };
 
 export const TextBox = ({ children, class: _class, ...props }) => {

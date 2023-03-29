@@ -15,7 +15,7 @@ export const Neighborhood = ({ city, neighborhood }) => {
         <Choice href={["neighborhood", n.name, "building", building.name]}>{building.name}</Choice>
       ))}
       {landmarks.map(landmark => (
-        <Choice href={["neighborhood", n.name, "landmark", landmark.name]}>{landmark.name}</Choice>
+        <Choice href={["neighborhood", n.name, "landmark", landmark.name]}>Landmark: {landmark.name}</Choice>
       ))}
     </ChoiceList>
   </Page>;

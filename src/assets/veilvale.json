@@ -1,6 +1,6 @@
 {
   "exportType": "layercraft",
-  "exportDate": 1680106431812,
+  "exportDate": 1680115430517,
   "model": {
     "id": "5522c818-d398-4e04-ae27-fd06d7f42d7a",
     "type": "layercraft",
@@ -9,7 +9,7 @@
     "archived": false,
     "logoPrompt": "Veilvale",
     "dateCreated": 1679543101791,
-    "dateUpdated": 1680068254216,
+    "dateUpdated": 1680115344569,
     "domain": {
       "schemaName": "citymaker",
       "document": {
@@ -6993,7 +6993,8 @@
               },
               {
                 "type": "neighborhoodImagePrompt",
-                "name": "The panoramic view of Shifting Sands shows a vast desert landscape with shifting dunes that create a mesmerizing pattern of light and shadow. In the distance, a lone mountain rises, its peak shrouded in mist. The sky overhead is a deep purple, with stars twinkling like diamonds against the darkness. In the foreground, a small oasis can be seen, with a few palm trees and a pool of crystal-clear water."
+                "name": "The panoramic view of Shifting Sands shows a vast desert landscape with shifting dunes that create a mesmerizing pattern of light and shadow. In the distance, a lone mountain rises, its peak shrouded in mist. The sky overhead is a deep purple, with stars twinkling like diamonds against the darkness. In the foreground, a small oasis can be seen, with a few palm trees and a pool of crystal-clear water.",
+                "imageUrl": "https://i.imgur.com/CyCPLDS.jpg"
               }
             ],
             "collapsedChoices": {
@@ -24897,6 +24898,14 @@
             "type": "mapView",
             "name": "Finally, the map zooms out even further to show Veilvale's location on a larger world map. The city is located on a continent near the equator, surrounded by other cities, mountain ranges, and oceans. The map is drawn on a brass globe, with the outlines of continents marked in gold and oceans in blue. The peninsula where Veilvale is located is marked by a symbol of the moon.\n",
             "imageUrl": "https://i.imgur.com/Kl7oJve.jpg"
+          },
+          {
+            "type": "cityDescription",
+            "name": "Welcome to Veilvale, a mythical city surrounded by a maze and filled with wonder and magic at every turn. Upon entering the city, one cannot help but notice the locals wearing masks to conceal their true identities. Beyond the crystal walls of the maze, the city is filled with giant glowing mushrooms, underground lakes filled with bioluminescent jellyfish, and hidden canals that lead to secret gardens and glades.\n\nThe city's history is steeped in mystery and magic. It was built as a defense against invaders and has since become a labyrinthine city. Its people worship the moon goddess, who is believed to be the guardian of the maze and the giver of life and death. The technology of the city is powered by the energy of the moon and stars and includes automatons made of silver, telescopes that can see transcendental planes, and alchemical machines that can transmute matter. The social structure of Veilvale is based on fluid identity, where people can choose their own gender, name, and role in society, and family ties are determined by affinity rather than blood. So enter the maze and explore Veilvale, a city where fantasy and magic come together to create a truly unique and enchanting experience."
+          },
+          {
+            "type": "factionsDescription",
+            "name": "Welcome to Veilvale, a city shrouded in mystery and magic. Here, the locals wear masks to hide their true identities, and the center of the city is a sprawling labyrinth surrounded by a crystal wall. The city is home to many factions, each with their own unique culture and purpose.\n\nFirst, there's the **Labyrinthine Senate**, a council of elected officials that governs the city. They hold meetings in a grand hall at the center of the maze, and their power comes from their ability to navigate the labyrinth. Next is the **Cult of the Moon Goddess**, a religious organization that worships the moon as the giver of life in Veilvale. They're also known for their prophetic abilities and operate a network of shelters and hospitals. \n\nThen there are the **Razormaws**, a brutal gang of thieves and killers who use razor-sharp weapons and twisted metal masks to hide their faces. They control a number of illegal activities, including smuggling and extortion. The **Masked Players** are a group of performers and artists who use masks to express themselves in ways that would otherwise be impossible. They put on elaborate shows in the city square and have their own publication, the Masked Gazette. \n\nThe **Guild of Starweavers** is a prestigious organization of artisans who create magical textiles, and the **Veiled Ones** are a secretive sect that worships the Trickster and believes in the power of masks to reveal or conceal true identity. The **Labyrinthine Academy** is a renowned institution of learning that emphasizes the study of astronomy, astrology, and navigation. Finally, the **Silver Sentinels** are a group of automatons created to protect Veilvale from external threats, powered by lunar energy and capable of telepathic communication."
           }
         ],
         "choices": {
@@ -25695,7 +25704,9 @@
               "type": "mapView",
               "name": "Finally, the map zooms out even further to show Veilvale's location on a larger world map. The city is located on a continent near the equator, surrounded by other cities, mountain ranges, and oceans. The map is drawn on a brass globe, with the outlines of continents marked in gold and oceans in blue. The peninsula where Veilvale is located is marked by a symbol of the moon.\n"
             }
-          ]
+          ],
+          "cityDescription": [],
+          "factionsDescription": []
         },
         "instructions": {
           "cityPeriod": "add some darker options",
