@@ -1,5 +1,6 @@
 import { Page, A, H1, TextBox, ChoiceList, Choice, SiteImage, InsetImage } from "./components";
 import { Markdown } from "./markdown";
+import { ChatLog } from "./chatlog";
 
 export const Faction = ({ city, faction }) => {
   const f = city.findName("faction", faction);
@@ -33,5 +34,6 @@ export const FactionMember = ({ city, faction, person }) => {
       <InsetImage src={city.getImage(f, "factionLogoImagePrompt")} />
       <Markdown text={p.attributes.description} />
     </TextBox>
+    <ChatLog city={city} person={p} object={city.find("factionMemberChat", p)} />
   </Page>;
 };
