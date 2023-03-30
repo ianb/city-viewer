@@ -17,7 +17,7 @@ export const Neighborhood = ({ city, neighborhood }) => {
     <TextBox>
       <Markdown text={n.attributes.description} />
     </TextBox>
-    <ChoiceList>
+    <ChoiceList intro="Buildings:">
       {buildings.map(building => (
         <Choice href={["neighborhood", n.name, "building", building.name]}>{building.name}</Choice>
       ))}

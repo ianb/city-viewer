@@ -7,7 +7,7 @@ export const Home = ({ city }) => {
     background={city.properties.cityHomeImage.imageUrl}
   >
     <div class="flex flex-col items-center justify-center h-full">
-      <h1 class="text-2xl font-semibold"><a style={`color: ${color}`} href="#/city">Enter: {city.find("cityName").name}</a></h1>
+      <a href="#/city" class="p-48"><h1 class="text-4xl font-semibold pb-32" style={`color: ${color}`}>Enter {city.find("cityName").name}</h1></a>
     </div>
   </Page>;
 };

@@ -10,7 +10,7 @@ export const Page = ({ back, title, background, saturated, children }) => {
   }
   let style = "";
   if (background) {
-    style = `background-image: url(${background}); background-repeat: no-repeat; background-size: cover;`;
+    style = `background-image: url(${background}); background-repeat: no-repeat; background-size: cover; background-position: center;`;
   }
   let saturationStyle = "background-color: rgba(255, 255, 255, 0.3)";
   if (saturated) {
