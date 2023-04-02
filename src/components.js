@@ -1,4 +1,4 @@
-import { useEffect } from "preact/hooks";
+import { useEffect, useState } from "preact/hooks";
 import { twMerge } from "tailwind-merge";
 
 export const Page = ({ back, title, background, saturated, children }) => {
@@ -49,18 +49,33 @@ export const A = ({ children, href, class: _class, ...props }) => {
 };
 
 export const SiteImage = ({ src, class: _class, ...props }) => {
+  const [zooming, setZooming] = useState(false);
   if (!src) {
     return null;
   }
-  _class = twMerge("block w-full m-2 rounded-lg", _class);
+  _class = twMerge("block w-full m-2 rounded-lg shadow-md shadow-slate-800", _class);
+  if (zooming) {
+    return ZoomedImage({ src, onDone: () => setZooming(false), ...props });
+  }
   return (
     <div class="lg:float-right lg:w-1/2 md:clear-both w-full">
-      <a href={src} target="_blank">
-        <img src={src} class={_class} {...props} />
-      </a>
+      <img src={src} class={_class} {...props} onClick={() => setZooming(true)} />
     </div>
   );
 };
+
+export const ZoomedImage = ({ src, onDone, ...props }) => {
+  /* Show the src image zoomed in with a dark overlay behind it. */
+  return (
+    <div class="fixed inset-0 flex items-center justify-center">
+      <div class="fixed inset-0 bg-black opacity-75" onClick={onDone} />
+      <div class="relative">
+        <img src={src} class="max-h-screen max-w-screen" {...props} />
+      </div>
+    </div>
+  );
+};
+
 
 export const InsetImage = ({ src, class: _class, ...props }) => {
   if (!src) {
@@ -89,7 +104,7 @@ export const H2 = ({ children, class: _class, ...props }) => {
 };
 
 export const TextBox = ({ children, class: _class, ...props }) => {
-  _class = twMerge("text-gray-900 lg:w-1/3 p-3 rounded m-4 leading-relaxed", _class);
+  _class = twMerge("text-gray-900 lg:w-1/3 p-3 rounded m-4 leading-relaxed shadow-md shadow-slate-800", _class);
   return <div style="background-color: rgba(255, 255, 255, 0.7)" class={_class} {...props}>{children}</div>;
 };
 
