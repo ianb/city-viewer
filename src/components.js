@@ -19,11 +19,11 @@ export const Page = ({ back, title, background, saturated, children }) => {
   return <div class="flex flex-col h-full min-h-screen bg-gray-900" style={style}>
     <div class="flex items-center justify-between px-4 py-2 shadow-md" style="background-color: rgba(0, 0, 0, 0.3)">
       {back ?
-        <a href={back} class="flex items-center space-x-2 text-blue-500 hover:text-blue-800">
+        <a href={back} class="flex items-center space-x-2 text-blue-500 hover:text-indigo-400">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" viewBox="0 0 20 20" fill="currentColor">
             <path fill-rule="evenodd" d="M12.707 5.293a1 1 0 00-1.414-1.414l-4 4a1 1 0 000 1.414l4 4a1 1 0 001.414-1.414L10.414 10H17a1 1 0 100-2h-6.586l2.293-2.293z" clip-rule="evenodd" />
           </svg>
-          <span class="text-xl font-medium">Previous</span>
+          <span class="text-xl font-medium pr-8">Up</span>
         </a> : null}
       <h1 class="text-2xl font-semibold text-gray-200">{title || "??"}</h1>
     </div>
